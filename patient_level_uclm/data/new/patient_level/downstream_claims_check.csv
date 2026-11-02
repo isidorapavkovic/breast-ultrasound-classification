@@ -1,0 +1,12 @@
+claim,original,updated,changed
+"Tier 1: ""significant_comparisons: 0"" (of 12, sensitivity90)",0,0,False
+"Tier 1: ""No architecture significantly outperforms another"" -- macro-F1 pairs significant","[""TL resnet50 vs efficientnet_b0 on bus_uclm"", ""TL resnet50 vs swin_tiny on bus_uclm"", ""scratch resnet50 vs efficientnet_b0 on bus_uclm"", ""scratch efficientnet_b0 vs swin_tiny on bus_uclm""]","[""TL resnet50 vs swin_tiny on bus_uclm"", ""scratch resnet50 vs efficientnet_b0 on bus_uclm"", ""scratch efficientnet_b0 vs swin_tiny on bus_uclm""]",True
+ResNet-50: TL numerically ahead on all 3 datasets,true,true,False
+ResNet-50: TL significantly ahead on any dataset (claim: False),false,false,False
+"""unlike efficientnet_b0 and swin_tiny, where TL's advantage IS significant"" (datasets)","{""resnet50"": [], ""efficientnet_b0"": [""breast"", ""bus_uclm""], ""swin_tiny"": [""breast"", ""bus_uclm""]}","{""resnet50"": [], ""efficientnet_b0"": [""breast"", ""bus_uclm""], ""swin_tiny"": [""breast"", ""bus_uclm""]}",False
+"Clever Hans: ""No significant arm effect internally (0/12)""",0,0,False
+"Clever Hans: ""Externally, 9/24 significant""",9,9,False
+"Clever Hans: ""All 9 significant results are on bus_uclm"" -- on bus_uclm",8,8,False
+Clever Hans: ... -- on breast,1,1,False
+"Clever Hans: ""split roughly evenly confirming vs. disconfirming (5 vs 4)""","{""confirming"": 5, ""disconfirming"": 4}","{""confirming"": 5, ""disconfirming"": 4}",False
+"Clever Hans: ""sensitivity90 never reaches significance anywhere""",false,false,False

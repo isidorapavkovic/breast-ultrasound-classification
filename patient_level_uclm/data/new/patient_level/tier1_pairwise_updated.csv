@@ -1,0 +1,13 @@
+mode,arch1,arch2,eval_data,sensitivity90_diff_(arch1-arch2),sensitivity90_significant
+TL,resnet50,efficientnet_b0,bus_uclm,-0.056338028169014065,False
+TL,resnet50,efficientnet_b0,breast,-0.0591836734693879,False
+TL,resnet50,swin_tiny,bus_uclm,-0.15492957746478875,False
+TL,resnet50,swin_tiny,breast,0.0489795918367348,False
+TL,efficientnet_b0,swin_tiny,bus_uclm,-0.09859154929577468,False
+TL,efficientnet_b0,swin_tiny,breast,0.1081632653061227,False
+scratch,resnet50,efficientnet_b0,bus_uclm,0.1521126760563375,False
+scratch,resnet50,efficientnet_b0,breast,-0.0061224489795919,False
+scratch,resnet50,swin_tiny,bus_uclm,0.10985915492957696,False
+scratch,resnet50,swin_tiny,breast,0.0142857142857141,False
+scratch,efficientnet_b0,swin_tiny,bus_uclm,-0.04225352112676055,False
+scratch,efficientnet_b0,swin_tiny,breast,0.0204081632653061,False

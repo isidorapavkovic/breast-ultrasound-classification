@@ -1,0 +1,11 @@
+{
+  "total_comparisons": 36,
+  "internal_significant": 0,
+  "external_significant": 9,
+  "external_total": 24,
+  "direction_among_significant": {
+    "confirming": 5,
+    "disconfirming": 4
+  },
+  "finding": "No significant arm effect internally (0/12). Externally, 9/24 significant, split roughly evenly confirming vs. disconfirming (5 vs 4) once classified by which specific metric was significant. Eight of the significant results are on bus_uclm (n=629); the remaining one is on breast (n=256). sensitivity90 never reaches significance anywhere in this table; only macro_f1 ever does. Overall: inconclusive on the Clever Hans hypothesis -- neither confirmed nor disconfirmed."
+}
