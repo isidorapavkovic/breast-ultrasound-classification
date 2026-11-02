@@ -1,0 +1,10 @@
+Dataset,Class,Count,Percentage
+BUS-UCLM,Benign,174,25.5
+BUS-UCLM,Malignant,90,13.2
+BUS-UCLM,Normal,419,61.3
+BUSI,benign,437,56.0
+BUSI,malignant,210,26.9
+BUSI,normal,133,17.1
+BrEaST,benign,154,60.2
+BrEaST,malignant,98,38.3
+BrEaST,normal,4,1.6

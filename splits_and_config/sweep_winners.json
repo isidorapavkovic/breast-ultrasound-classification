@@ -1,0 +1,215 @@
+{
+  "resnet50_TL": {
+    "run_id": "c78gbn7g",
+    "config": {
+      "lr": 0.00021257582774340697,
+      "mode": "TL",
+      "epochs": 50,
+      "dropout": 0.4997841900297195,
+      "patience": 8,
+      "architecture": "resnet50",
+      "grace_period": 10,
+      "weight_decay": 1.1707701321069432e-05,
+      "unfreeze_category": "last_2_blocks"
+    },
+    "avg_val_f2": 0.8639447702791336,
+    "stability_gap": 0.45063762966017407,
+    "fold_val_f2": [
+      0.8033513898534167,
+      0.9043110941105194,
+      0.866692017245081,
+      0.9114114215215898,
+      0.833957928665062
+    ],
+    "fold_stopping_epoch": [
+      18,
+      25,
+      21,
+      46,
+      38
+    ],
+    "pool_size": 5,
+    "pool_f2_range": [
+      0.8639447702791336,
+      0.8697647822708691
+    ],
+    "selection_reason": "stability"
+  },
+  "resnet50_scratch": {
+    "run_id": "w44fyq0g",
+    "config": {
+      "lr": 0.0015803165004372984,
+      "mode": "scratch",
+      "epochs": 100,
+      "dropout": 0.4212340794509992,
+      "patience": 12,
+      "architecture": "resnet50",
+      "grace_period": 15,
+      "weight_decay": 1.4845038358881266e-05
+    },
+    "avg_val_f2": 0.6463899746100864,
+    "stability_gap": 0.7791752701666619,
+    "fold_val_f2": [
+      0.49688284804585975,
+      0.6868111298269867,
+      0.6749981369676559,
+      0.7376219857241391,
+      0.6356357724857905
+    ],
+    "fold_stopping_epoch": [
+      42,
+      83,
+      99,
+      86,
+      86
+    ],
+    "pool_size": 5,
+    "pool_f2_range": [
+      0.6137114069965496,
+      0.6463899746100864
+    ],
+    "selection_reason": "top_f2_fallback"
+  },
+  "efficientnet_b0_TL": {
+    "run_id": "20imjn5q",
+    "config": {
+      "lr": 0.0009843939843073156,
+      "mode": "TL",
+      "epochs": 50,
+      "dropout": 0.33655604632596026,
+      "patience": 8,
+      "architecture": "efficientnet_b0",
+      "grace_period": 10,
+      "weight_decay": 0.00021860281006774656,
+      "unfreeze_category": "last_2_blocks"
+    },
+    "avg_val_f2": 0.8517708283833745,
+    "stability_gap": 0.5744913427533443,
+    "fold_val_f2": [
+      0.8293900741377976,
+      0.8906297430241409,
+      0.8684378773646843,
+      0.8762050347426739,
+      0.7941914126475756
+    ],
+    "fold_stopping_epoch": [
+      35,
+      19,
+      22,
+      31,
+      19
+    ],
+    "pool_size": 5,
+    "pool_f2_range": [
+      0.8433986860244014,
+      0.8517708283833745
+    ],
+    "selection_reason": "top_f2_fallback"
+  },
+  "efficientnet_b0_scratch": {
+    "run_id": "nfb38boo",
+    "config": {
+      "lr": 0.006976311826615469,
+      "mode": "scratch",
+      "epochs": 100,
+      "dropout": 0.32387752047509344,
+      "patience": 12,
+      "architecture": "efficientnet_b0",
+      "grace_period": 15,
+      "weight_decay": 5.960200347992417e-05
+    },
+    "avg_val_f2": 0.751096108324398,
+    "stability_gap": 0.5575518475748874,
+    "fold_val_f2": [
+      0.657029153016242,
+      0.7984941890144487,
+      0.8243418842608538,
+      0.7915565008066116,
+      0.6840588145238337
+    ],
+    "fold_stopping_epoch": [
+      57,
+      74,
+      76,
+      50,
+      52
+    ],
+    "pool_size": 5,
+    "pool_f2_range": [
+      0.7217246755668904,
+      0.751096108324398
+    ],
+    "selection_reason": "top_f2_fallback"
+  },
+  "swin_tiny_TL": {
+    "run_id": "crkqf6cm",
+    "config": {
+      "lr": 0.00012205119526273346,
+      "mode": "TL",
+      "epochs": 60,
+      "dropout": 0.15853233027327163,
+      "patience": 8,
+      "architecture": "swin_tiny",
+      "grace_period": 10,
+      "weight_decay": 0.00899659411884794,
+      "unfreeze_category": "last_2_blocks"
+    },
+    "avg_val_f2": 0.8970391425348534,
+    "stability_gap": 0.19235608168636203,
+    "fold_val_f2": [
+      0.8167717876807844,
+      0.8962016423361926,
+      0.8745145482721349,
+      0.9569373583019476,
+      0.9407703760832076
+    ],
+    "fold_stopping_epoch": [
+      32,
+      38,
+      20,
+      35,
+      49
+    ],
+    "pool_size": 5,
+    "pool_f2_range": [
+      0.8920950600533363,
+      0.9006690849593918
+    ],
+    "selection_reason": "stability"
+  },
+  "swin_tiny_scratch": {
+    "run_id": "uwn6kulp",
+    "config": {
+      "lr": 4.094827894759401e-05,
+      "mode": "scratch",
+      "epochs": 200,
+      "dropout": 0.12417493820996062,
+      "patience": 25,
+      "architecture": "swin_tiny",
+      "grace_period": 20,
+      "weight_decay": 1.1447259867569892e-05
+    },
+    "avg_val_f2": 0.6812754252957792,
+    "stability_gap": 0.7098592709225638,
+    "fold_val_f2": [
+      0.5504006394298028,
+      0.772870543066436,
+      0.7572385210476348,
+      0.7571643239939969,
+      0.5687030989410258
+    ],
+    "fold_stopping_epoch": [
+      96,
+      114,
+      130,
+      142,
+      96
+    ],
+    "pool_size": 5,
+    "pool_f2_range": [
+      0.6811589803202955,
+      0.6874549051241449
+    ],
+    "selection_reason": "stability"
+  }
+}

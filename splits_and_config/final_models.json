@@ -1,0 +1,128 @@
+{
+  "resnet50_TL_inpainted": {
+    "architecture": "resnet50",
+    "mode": "TL",
+    "arm": "inpainted",
+    "target_epochs": 25,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/resnet50/transfer_learning/inpainted_final_retrain/final.pt"
+  },
+  "resnet50_TL_annotated": {
+    "architecture": "resnet50",
+    "mode": "TL",
+    "arm": "annotated",
+    "target_epochs": 30,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/resnet50/transfer_learning/annotated_final_retrain/final.pt"
+  },
+  "resnet50_TL_masked": {
+    "architecture": "resnet50",
+    "mode": "TL",
+    "arm": "masked",
+    "target_epochs": 25,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/resnet50/transfer_learning/masked_final_retrain/final.pt"
+  },
+  "resnet50_scratch_inpainted": {
+    "architecture": "resnet50",
+    "mode": "scratch",
+    "arm": "inpainted",
+    "target_epochs": 86,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/resnet50/from_scratch/inpainted_final_retrain/final.pt"
+  },
+  "resnet50_scratch_annotated": {
+    "architecture": "resnet50",
+    "mode": "scratch",
+    "arm": "annotated",
+    "target_epochs": 95,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/resnet50/from_scratch/annotated_final_retrain/final.pt"
+  },
+  "resnet50_scratch_masked": {
+    "architecture": "resnet50",
+    "mode": "scratch",
+    "arm": "masked",
+    "target_epochs": 42,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/resnet50/from_scratch/masked_final_retrain/final.pt"
+  },
+  "efficientnet_b0_TL_inpainted": {
+    "architecture": "efficientnet_b0",
+    "mode": "TL",
+    "arm": "inpainted",
+    "target_epochs": 22,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/efficientnet/transfer_learning/inpainted_final_retrain/final.pt"
+  },
+  "efficientnet_b0_TL_annotated": {
+    "architecture": "efficientnet_b0",
+    "mode": "TL",
+    "arm": "annotated",
+    "target_epochs": 23,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/efficientnet/transfer_learning/annotated_final_retrain/final.pt"
+  },
+  "efficientnet_b0_TL_masked": {
+    "architecture": "efficientnet_b0",
+    "mode": "TL",
+    "arm": "masked",
+    "target_epochs": 29,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/efficientnet/transfer_learning/masked_final_retrain/final.pt"
+  },
+  "efficientnet_b0_scratch_inpainted": {
+    "architecture": "efficientnet_b0",
+    "mode": "scratch",
+    "arm": "inpainted",
+    "target_epochs": 57,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/efficientnet/from_scratch/inpainted_final_retrain/final.pt"
+  },
+  "efficientnet_b0_scratch_annotated": {
+    "architecture": "efficientnet_b0",
+    "mode": "scratch",
+    "arm": "annotated",
+    "target_epochs": 66,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/efficientnet/from_scratch/annotated_final_retrain/final.pt"
+  },
+  "efficientnet_b0_scratch_masked": {
+    "architecture": "efficientnet_b0",
+    "mode": "scratch",
+    "arm": "masked",
+    "target_epochs": 52,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/efficientnet/from_scratch/masked_final_retrain/final.pt"
+  },
+  "swin_tiny_TL_inpainted": {
+    "architecture": "swin_tiny",
+    "mode": "TL",
+    "arm": "inpainted",
+    "target_epochs": 35,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/swin_transformer/transfer_learning/inpainted_final_retrain/final.pt"
+  },
+  "swin_tiny_TL_annotated": {
+    "architecture": "swin_tiny",
+    "mode": "TL",
+    "arm": "annotated",
+    "target_epochs": 23,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/swin_transformer/transfer_learning/annotated_final_retrain/final.pt"
+  },
+  "swin_tiny_TL_masked": {
+    "architecture": "swin_tiny",
+    "mode": "TL",
+    "arm": "masked",
+    "target_epochs": 28,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/swin_transformer/transfer_learning/masked_final_retrain/final.pt"
+  },
+  "swin_tiny_scratch_inpainted": {
+    "architecture": "swin_tiny",
+    "mode": "scratch",
+    "arm": "inpainted",
+    "target_epochs": 114,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/swin_transformer/from_scratch/inpainted_final_retrain/final.pt"
+  },
+  "swin_tiny_scratch_annotated": {
+    "architecture": "swin_tiny",
+    "mode": "scratch",
+    "arm": "annotated",
+    "target_epochs": 114,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/swin_transformer/from_scratch/annotated_final_retrain/final.pt"
+  },
+  "swin_tiny_scratch_masked": {
+    "architecture": "swin_tiny",
+    "mode": "scratch",
+    "arm": "masked",
+    "target_epochs": 134,
+    "checkpoint_path": "/content/drive/MyDrive/University/Masters/MSc_Thesis/checkpoints/swin_transformer/from_scratch/masked_final_retrain/final.pt"
+  }
+}
