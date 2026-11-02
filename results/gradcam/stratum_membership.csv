@@ -1,0 +1,51 @@
+dataset,eval_data,image_name,class_name,stratum_id,stratum_label
+BUSI,busi_test,benign (198).png,benign,1,busi_consensus_correct
+BUSI,busi_test,benign (107).png,benign,1,busi_consensus_correct
+BUSI,busi_test,benign (46).png,benign,1,busi_consensus_correct
+BUSI,busi_test,malignant (102).png,malignant,1,busi_consensus_correct
+BUSI,busi_test,malignant (104).png,malignant,1,busi_consensus_correct
+BUSI,busi_test,malignant (134).png,malignant,1,busi_consensus_correct
+BUSI,busi_test,normal (131).png,normal,1,busi_consensus_correct
+BUSI,busi_test,normal (29).png,normal,1,busi_consensus_correct
+BUSI,busi_test,normal (89).png,normal,1,busi_consensus_correct
+BrEaST,breast,case214.png,benign,2,external_consensus_correct
+BrEaST,breast,case196.png,benign,2,external_consensus_correct
+BrEaST,breast,case044.png,benign,2,external_consensus_correct
+BrEaST,breast,case144.png,malignant,2,external_consensus_correct
+BrEaST,breast,case149.png,malignant,2,external_consensus_correct
+BrEaST,breast,case011.png,malignant,2,external_consensus_correct
+BrEaST,breast,case061.png,normal,2,external_consensus_correct
+BrEaST,breast,case045.png,normal,2,external_consensus_correct
+BUS-UCLM,bus_uclm,FUHI_007.png,benign,2,external_consensus_correct
+BUS-UCLM,bus_uclm,MENE_017.png,benign,2,external_consensus_correct
+BUS-UCLM,bus_uclm,POFR_017.png,benign,2,external_consensus_correct
+BUS-UCLM,bus_uclm,COPE_013.png,malignant,2,external_consensus_correct
+BUS-UCLM,bus_uclm,COPE_012.png,malignant,2,external_consensus_correct
+BUS-UCLM,bus_uclm,OSCU_008.png,normal,2,external_consensus_correct
+BUS-UCLM,bus_uclm,ALWI_025.png,normal,2,external_consensus_correct
+BUS-UCLM,bus_uclm,COST_004.png,normal,2,external_consensus_correct
+BrEaST,breast,case219.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case007.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case132.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case160.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case094.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case173.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case072.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case026.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case050.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,COPE_018.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,CHSP_006.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,CHCO_000.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,CHVI_004.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,PAGY_004.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,FLKA_004.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,CHVI_019.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,SIBA_008.png,malignant,3,external_malignant_misclassified
+BUS-UCLM,bus_uclm,HUBL_008.png,malignant,3,external_malignant_misclassified
+BrEaST,breast,case022.png,benign,4,breast_other_lesion
+BrEaST,breast,case036.png,benign,4,breast_other_lesion
+BrEaST,breast,case038.png,benign,4,breast_other_lesion
+BrEaST,breast,case085.png,benign,4,breast_other_lesion
+BrEaST,breast,case092.png,benign,4,breast_other_lesion
+BrEaST,breast,case140.png,benign,4,breast_other_lesion
+BrEaST,breast,case151.png,benign,4,breast_other_lesion

@@ -1,0 +1,24 @@
+{
+  "tier0": {
+    "candidates_evaluated": 6,
+    "candidates_passing": 0,
+    "finding": "All 6 candidates (3 architectures x 2 modes, inpainted arm) fail the pre-specified 15% malignant-FNR safety floor on both external datasets. Internal (busi_test) FNR is acceptable for 5/6 models. No candidate is clinically safe by this criterion."
+  },
+  "tier1": {
+    "pairwise_comparisons_tested": 12,
+    "significant_comparisons": 0,
+    "finding": "No architecture significantly outperforms another in external generalization, in either mode, on either external dataset. The TL descriptive ranking (efficientnet_b0 nominally first) is an average of two individually non-significant, opposite-direction differences (ahead on breast, behind on bus_uclm) -- not a real winner."
+  },
+  "tier2": {
+    "tl_pick": "resnet50",
+    "scratch_pick": "resnet50",
+    "caveat": "Tiebreak among architectures already shown statistically indistinguishable at Tier 1. Selected on busi_test technical metrics only -- not evidence of superiority."
+  },
+  "tl_vs_scratch_for_picked_architecture": {
+    "architecture": "resnet50",
+    "tl_numerically_ahead_all_datasets": true,
+    "tl_significantly_ahead_any_dataset": false,
+    "finding": "resnet50/TL outperforms resnet50/scratch numerically on all 3 datasets (macro-F1 and malignant recall), but the difference is not statistically significant on any of them after correction -- unlike efficientnet_b0 and swin_tiny, where TL's advantage over scratch IS significant. resnet50 is the exception to the RQ1 pattern, not confirmation of it."
+  },
+  "overall_caveat": "No model in this study meets the pre-specified clinical safety floor. Any \"best model\" language below refers to relative standing among candidates that already failed that floor, not a deployment recommendation."
+}

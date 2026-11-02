@@ -1,0 +1,69 @@
+{
+  "padding_density_overall_mean": 0.4233101564052386,
+  "padding_density_by_region": [
+    {
+      "region": "external",
+      "correct": false,
+      "count": 61,
+      "mean": 0.52,
+      "median": 0.396,
+      "std": 0.434
+    },
+    {
+      "region": "external",
+      "correct": true,
+      "count": 185,
+      "mean": 0.419,
+      "median": 0.337,
+      "std": 0.427
+    },
+    {
+      "region": "internal",
+      "correct": true,
+      "count": 54,
+      "mean": 0.329,
+      "median": 0.294,
+      "std": 0.33
+    }
+  ],
+  "padding_density_by_architecture": [
+    {
+      "architecture": "efficientnet_b0",
+      "count": 100,
+      "mean": 0.386,
+      "median": 0.304,
+      "std": 0.402
+    },
+    {
+      "architecture": "resnet50",
+      "count": 100,
+      "mean": 0.322,
+      "median": 0.143,
+      "std": 0.343
+    },
+    {
+      "architecture": "swin_tiny",
+      "count": 100,
+      "mean": 0.561,
+      "median": 0.395,
+      "std": 0.46
+    }
+  ],
+  "swin_tiny_padding_density_by_region": [
+    {
+      "region": "external",
+      "count": 82,
+      "mean": 0.596,
+      "median": 0.399,
+      "std": 0.472
+    },
+    {
+      "region": "internal",
+      "count": 18,
+      "mean": 0.405,
+      "median": 0.316,
+      "std": 0.373
+    }
+  ],
+  "note": "Exploratory GradCAM++-based check for disproportionate attention on non-content (letterbox padding) regions, motivated by a qualitative observation during Section 3/6 review. Density ratio normalises for each dataset's differing physical padding amount (see 8.3). Complementary to, not a replacement for, the N04 ablation-arm Clever Hans investigation (inconclusive: 5 confirming / 4 disconfirming among externally-significant comparisons). Based on the Section 4 purposive sample (50 images, 361 heatmaps) -- descriptive, not inferential."
+}

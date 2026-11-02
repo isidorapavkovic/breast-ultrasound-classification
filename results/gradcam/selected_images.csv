@@ -1,0 +1,51 @@
+dataset,eval_data,image_name,class_name
+BUSI,busi_test,benign (198).png,benign
+BUSI,busi_test,benign (107).png,benign
+BUSI,busi_test,benign (46).png,benign
+BUSI,busi_test,malignant (102).png,malignant
+BUSI,busi_test,malignant (104).png,malignant
+BUSI,busi_test,malignant (134).png,malignant
+BUSI,busi_test,normal (131).png,normal
+BUSI,busi_test,normal (29).png,normal
+BUSI,busi_test,normal (89).png,normal
+BrEaST,breast,case214.png,benign
+BrEaST,breast,case196.png,benign
+BrEaST,breast,case044.png,benign
+BrEaST,breast,case144.png,malignant
+BrEaST,breast,case149.png,malignant
+BrEaST,breast,case011.png,malignant
+BrEaST,breast,case061.png,normal
+BrEaST,breast,case045.png,normal
+BUS-UCLM,bus_uclm,FUHI_007.png,benign
+BUS-UCLM,bus_uclm,MENE_017.png,benign
+BUS-UCLM,bus_uclm,POFR_017.png,benign
+BUS-UCLM,bus_uclm,COPE_013.png,malignant
+BUS-UCLM,bus_uclm,COPE_012.png,malignant
+BUS-UCLM,bus_uclm,OSCU_008.png,normal
+BUS-UCLM,bus_uclm,ALWI_025.png,normal
+BUS-UCLM,bus_uclm,COST_004.png,normal
+BrEaST,breast,case219.png,malignant
+BrEaST,breast,case007.png,malignant
+BrEaST,breast,case132.png,malignant
+BrEaST,breast,case160.png,malignant
+BrEaST,breast,case094.png,malignant
+BrEaST,breast,case173.png,malignant
+BrEaST,breast,case072.png,malignant
+BrEaST,breast,case026.png,malignant
+BrEaST,breast,case050.png,malignant
+BUS-UCLM,bus_uclm,COPE_018.png,malignant
+BUS-UCLM,bus_uclm,CHSP_006.png,malignant
+BUS-UCLM,bus_uclm,CHCO_000.png,malignant
+BUS-UCLM,bus_uclm,CHVI_004.png,malignant
+BUS-UCLM,bus_uclm,PAGY_004.png,malignant
+BUS-UCLM,bus_uclm,FLKA_004.png,malignant
+BUS-UCLM,bus_uclm,CHVI_019.png,malignant
+BUS-UCLM,bus_uclm,SIBA_008.png,malignant
+BUS-UCLM,bus_uclm,HUBL_008.png,malignant
+BrEaST,breast,case022.png,benign
+BrEaST,breast,case036.png,benign
+BrEaST,breast,case038.png,benign
+BrEaST,breast,case085.png,benign
+BrEaST,breast,case092.png,benign
+BrEaST,breast,case140.png,benign
+BrEaST,breast,case151.png,benign

@@ -1,0 +1,314 @@
+heatmap_id,dataset,eval_data,image_name,class_name,architecture,mode,model_id,true_label,pred_label,correct,target_class,target_class_name,is_predicted,is_true,ebpg,otsu_iou
+0,BUSI,busi_test,benign (198).png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.06994661688804626,0.0
+1,BUSI,busi_test,benign (198).png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.4688751995563507,0.49385439647021745
+2,BUSI,busi_test,benign (198).png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.18849341571331024,0.2388423988842399
+3,BUSI,busi_test,benign (198).png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.28090497851371765,0.21036223277909738
+4,BUSI,busi_test,benign (198).png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.0960167944431305,0.12043929225137279
+5,BUSI,busi_test,benign (198).png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.18140670657157898,0.1921369350093608
+6,BUSI,busi_test,benign (107).png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.026037536561489105,0.035383597883597885
+7,BUSI,busi_test,benign (107).png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.17373940348625183,0.16650457109511768
+8,BUSI,busi_test,benign (107).png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.02613869681954384,0.04178259383999609
+9,BUSI,busi_test,benign (107).png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.16470034420490265,0.199343339587242
+10,BUSI,busi_test,benign (107).png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.03151166811585426,0.04785598479342539
+11,BUSI,busi_test,benign (107).png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.06451517343521118,0.061296097386322954
+12,BUSI,busi_test,benign (46).png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.011414477601647377,0.013364563240562139
+13,BUSI,busi_test,benign (46).png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.07066676020622253,0.0593090797921125
+14,BUSI,busi_test,benign (46).png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.006505515426397324,0.0
+15,BUSI,busi_test,benign (46).png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.06555364280939102,0.09315726290516206
+16,BUSI,busi_test,benign (46).png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.014103899709880352,0.01183035033692106
+17,BUSI,busi_test,benign (46).png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.03798838332295418,0.03143991572806094
+18,BUSI,busi_test,malignant (102).png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.11171387881040573,0.15226489414081734
+19,BUSI,busi_test,malignant (102).png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.26322728395462036,0.2924067323353758
+20,BUSI,busi_test,malignant (102).png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.0766460970044136,0.06453590550537458
+21,BUSI,busi_test,malignant (102).png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.46845918893814087,0.5545815415150512
+22,BUSI,busi_test,malignant (102).png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.10138972848653793,0.097483216333037
+23,BUSI,busi_test,malignant (102).png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.22365224361419678,0.2699351930121161
+24,BUSI,busi_test,malignant (104).png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.2858852446079254,0.3443973047167457
+25,BUSI,busi_test,malignant (104).png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.5722581744194031,0.578942125709732
+26,BUSI,busi_test,malignant (104).png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.23014266788959503,0.11516533637400228
+27,BUSI,busi_test,malignant (104).png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.7139996886253357,0.5057859209257474
+28,BUSI,busi_test,malignant (104).png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.2286032885313034,0.2441845844335471
+29,BUSI,busi_test,malignant (104).png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.42871853709220886,0.5494245625098534
+30,BUSI,busi_test,malignant (134).png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.06582450866699219,0.07129735935706084
+31,BUSI,busi_test,malignant (134).png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.28071773052215576,0.33266345123258306
+32,BUSI,busi_test,malignant (134).png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.09774002432823181,0.13683602771362588
+33,BUSI,busi_test,malignant (134).png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.3450528681278229,0.3669094693028096
+34,BUSI,busi_test,malignant (134).png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.04030999168753624,0.027320989252881005
+35,BUSI,busi_test,malignant (134).png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.18802794814109802,0.24753787878787878
+54,BrEaST,breast,case214.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.03608538955450058,0.056016427104722794
+55,BrEaST,breast,case214.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.24710671603679657,0.2569222075720475
+56,BrEaST,breast,case214.png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.04343385621905327,0.07378955910197457
+57,BrEaST,breast,case214.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.24204914271831512,0.2706886286961699
+58,BrEaST,breast,case214.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.013173134066164494,0.00406439018145742
+59,BrEaST,breast,case214.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.11556209623813629,0.12895906211591188
+60,BrEaST,breast,case196.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.0027547739446163177,0.0
+61,BrEaST,breast,case196.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.04543834179639816,0.056768558951965066
+62,BrEaST,breast,case196.png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.008666565641760826,0.01683049628386478
+63,BrEaST,breast,case196.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.0037975108716636896,0.0
+64,BrEaST,breast,case196.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.010490837506949902,0.011847701343414568
+65,BrEaST,breast,case196.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.031823839992284775,0.04795081967213115
+66,BrEaST,breast,case044.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.0074766650795936584,0.0
+67,BrEaST,breast,case044.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.053661368787288666,0.0702838063439065
+68,BrEaST,breast,case044.png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.01362939365208149,0.017081186351280076
+69,BrEaST,breast,case044.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.03274333104491234,0.04645083450633421
+70,BrEaST,breast,case044.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.0009796940721571445,0.0
+71,BrEaST,breast,case044.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.039802905172109604,0.045930613135500765
+72,BrEaST,breast,case144.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.09866660833358765,0.05264951967771924
+73,BrEaST,breast,case144.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.4131942689418793,0.3408477536116844
+74,BrEaST,breast,case144.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.16457200050354004,0.06465885275168827
+75,BrEaST,breast,case144.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.708787202835083,0.4775441547518923
+76,BrEaST,breast,case144.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.34780260920524597,0.33419517137765975
+77,BrEaST,breast,case144.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.5337737798690796,0.5870260703832278
+78,BrEaST,breast,case149.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.04558105394244194,0.0
+79,BrEaST,breast,case149.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.6752755045890808,0.7617931896282412
+80,BrEaST,breast,case149.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.08025379478931427,0.05318391364641505
+81,BrEaST,breast,case149.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.40763670206069946,0.27427298311444653
+82,BrEaST,breast,case149.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.1664731353521347,0.1626715159530501
+83,BrEaST,breast,case149.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.4382551610469818,0.5273668639053254
+84,BrEaST,breast,case011.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.1572258621454239,0.20924407094662842
+85,BrEaST,breast,case011.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.3629988431930542,0.4056888888888889
+86,BrEaST,breast,case011.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.154886394739151,0.17270249860459008
+87,BrEaST,breast,case011.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.3586947023868561,0.3109508787742226
+88,BrEaST,breast,case011.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.1503211110830307,0.21570329225250245
+89,BrEaST,breast,case011.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.3341718912124634,0.4025099479644934
+102,BUS-UCLM,bus_uclm,FUHI_007.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.03605618700385094,0.058937528499772004
+103,BUS-UCLM,bus_uclm,FUHI_007.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.20147104561328888,0.2161371237458194
+104,BUS-UCLM,bus_uclm,FUHI_007.png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.040651578456163406,0.05230940456316082
+105,BUS-UCLM,bus_uclm,FUHI_007.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.19125381112098694,0.2152821153445763
+106,BUS-UCLM,bus_uclm,FUHI_007.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.023005545139312744,0.020033791938209027
+107,BUS-UCLM,bus_uclm,FUHI_007.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.0829988494515419,0.08388091181958303
+108,BUS-UCLM,bus_uclm,MENE_017.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.019487591460347176,0.020158262577254088
+109,BUS-UCLM,bus_uclm,MENE_017.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.035834722220897675,0.05183052241875771
+110,BUS-UCLM,bus_uclm,MENE_017.png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.014095050282776356,0.01826364540268983
+111,BUS-UCLM,bus_uclm,MENE_017.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.007086080964654684,0.0
+112,BUS-UCLM,bus_uclm,MENE_017.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.014130578376352787,0.023277529513773095
+113,BUS-UCLM,bus_uclm,MENE_017.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.03466054052114487,0.030552394292217455
+114,BUS-UCLM,bus_uclm,POFR_017.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.030708177015185356,0.0
+115,BUS-UCLM,bus_uclm,POFR_017.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.17676334083080292,0.1960417811984607
+116,BUS-UCLM,bus_uclm,POFR_017.png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.07967118173837662,0.08395481704391818
+117,BUS-UCLM,bus_uclm,POFR_017.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.1908334493637085,0.22607110300820418
+118,BUS-UCLM,bus_uclm,POFR_017.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.06153734028339386,0.097018660184457
+119,BUS-UCLM,bus_uclm,POFR_017.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.1799694448709488,0.20788336933045357
+120,BUS-UCLM,bus_uclm,COPE_013.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.03076002560555935,0.0
+121,BUS-UCLM,bus_uclm,COPE_013.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.5987139940261841,0.5738315646872884
+122,BUS-UCLM,bus_uclm,COPE_013.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.1135425940155983,0.0
+123,BUS-UCLM,bus_uclm,COPE_013.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.4335227310657501,0.2154551407989522
+124,BUS-UCLM,bus_uclm,COPE_013.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.18652935326099396,0.15146985550572994
+125,BUS-UCLM,bus_uclm,COPE_013.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.5679120421409607,0.6998740554156171
+126,BUS-UCLM,bus_uclm,COPE_012.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.009712941944599152,0.0
+127,BUS-UCLM,bus_uclm,COPE_012.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.5239919424057007,0.48084161760447836
+128,BUS-UCLM,bus_uclm,COPE_012.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.07690548896789551,0.0
+129,BUS-UCLM,bus_uclm,COPE_012.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.4600781798362732,0.20980897188237818
+130,BUS-UCLM,bus_uclm,COPE_012.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.2306707352399826,0.28909825033647374
+131,BUS-UCLM,bus_uclm,COPE_012.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.5196495652198792,0.6579243929925213
+150,BrEaST,breast,case219.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.002537159714847803,0.0
+151,BrEaST,breast,case219.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,0,benign,True,False,0.561194658279419,0.6321934945788157
+152,BrEaST,breast,case219.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,1,malignant,False,True,0.6843606233596802,0.7487046632124352
+153,BrEaST,breast,case219.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.09539730846881866,0.03444150924587549
+154,BrEaST,breast,case219.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.5427595973014832,0.3375845113706208
+155,BrEaST,breast,case219.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.14406712353229523,0.1855290980969017
+156,BrEaST,breast,case219.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.49119970202445984,0.6867501304121022
+157,BrEaST,breast,case007.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,2,False,2,normal,True,False,0.19457563757896423,0.21122190299138077
+158,BrEaST,breast,case007.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,2,False,1,malignant,False,True,0.00035475598997436464,0.0
+159,BrEaST,breast,case007.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.6288284659385681,0.5626012208795316
+160,BrEaST,breast,case007.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.17132271826267242,0.24548661548039014
+161,BrEaST,breast,case007.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.30042991042137146,0.1539906103286385
+162,BrEaST,breast,case007.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.15199065208435059,0.12254292685172398
+163,BrEaST,breast,case007.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.49863654375076294,0.6412130069419072
+164,BrEaST,breast,case132.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.045917440205812454,0.06737186180596541
+165,BrEaST,breast,case132.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.1339331418275833,0.11756317832527925
+166,BrEaST,breast,case132.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.025653081014752388,0.016651989432391323
+167,BrEaST,breast,case132.png,malignant,resnet50,TL,resnet50_TL,1,0,False,0,benign,True,False,0.2985057532787323,0.33971871968962175
+168,BrEaST,breast,case132.png,malignant,resnet50,TL,resnet50_TL,1,0,False,1,malignant,False,True,0.17003270983695984,0.2012960154418861
+169,BrEaST,breast,case132.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.006692137103527784,0.0004969139031279422
+170,BrEaST,breast,case132.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.16575635969638824,0.1931285788651744
+171,BrEaST,breast,case160.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.1672774851322174,0.22195131243094976
+172,BrEaST,breast,case160.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.48366230726242065,0.5831892826274849
+173,BrEaST,breast,case160.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,0,benign,True,False,0.15185093879699707,0.22480211081794196
+174,BrEaST,breast,case160.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,1,malignant,False,True,0.07256186753511429,0.03841626118348768
+175,BrEaST,breast,case160.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.5131786465644836,0.3897219018326285
+176,BrEaST,breast,case160.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.23633776605129242,0.2968741199662067
+177,BrEaST,breast,case160.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.44974783062934875,0.49691358024691357
+178,BrEaST,breast,case094.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.052194125950336456,0.04741738405998334
+179,BrEaST,breast,case094.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.1269564926624298,0.11080467229072032
+180,BrEaST,breast,case094.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.06314096599817276,0.0823834509378204
+181,BrEaST,breast,case094.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.09920579195022583,0.08832026413536938
+182,BrEaST,breast,case094.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,0,benign,True,False,0.04640737175941467,0.06562462713280039
+183,BrEaST,breast,case094.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,1,malignant,False,True,0.039372414350509644,0.04723295936645611
+184,BrEaST,breast,case094.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.1476157307624817,0.16684988396237938
+185,BrEaST,breast,case173.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.02312745712697506,0.01906808568699686
+186,BrEaST,breast,case173.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,3.240291235329096e-08,0.0
+187,BrEaST,breast,case173.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,0,benign,True,False,0.1491907387971878,0.13850346878097125
+188,BrEaST,breast,case173.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,1,malignant,False,True,0.12706199288368225,0.11389568052159739
+189,BrEaST,breast,case173.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,0,benign,True,False,0.018661092966794968,0.02071674758181077
+190,BrEaST,breast,case173.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,1,malignant,False,True,0.0027391579933464527,0.0
+191,BrEaST,breast,case173.png,malignant,resnet50,TL,resnet50_TL,1,2,False,2,normal,True,False,0.03159095719456673,0.049697724039829305
+192,BrEaST,breast,case173.png,malignant,resnet50,TL,resnet50_TL,1,2,False,1,malignant,False,True,0.035351984202861786,0.06856561546286877
+193,BrEaST,breast,case173.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,2,False,2,normal,True,False,0.009124821983277798,8.371703641691084e-05
+194,BrEaST,breast,case173.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,2,False,1,malignant,False,True,0.0028254075441509485,0.0
+195,BrEaST,breast,case173.png,malignant,swin_tiny,TL,swin_tiny_TL,1,0,False,0,benign,True,False,0.05847470089793205,0.07263513513513513
+196,BrEaST,breast,case173.png,malignant,swin_tiny,TL,swin_tiny_TL,1,0,False,1,malignant,False,True,0.13360600173473358,0.21591348010814987
+197,BrEaST,breast,case072.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.14319486916065216,0.15899566342334462
+198,BrEaST,breast,case072.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,0.135725736618042,0.13885331123333083
+199,BrEaST,breast,case072.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.4914345443248749,0.6403745437232186
+200,BrEaST,breast,case072.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,0,benign,True,False,0.09924380481243134,0.11265660956277167
+201,BrEaST,breast,case072.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,1,malignant,False,True,0.0679725632071495,0.05320507110834001
+202,BrEaST,breast,case072.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.48370131850242615,0.327966398319916
+203,BrEaST,breast,case072.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,0,benign,True,False,0.07500762492418289,0.058958652373660034
+204,BrEaST,breast,case072.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,1,malignant,False,True,0.18773677945137024,0.18731967152474663
+205,BrEaST,breast,case072.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.5605717301368713,0.7446126447016919
+206,BrEaST,breast,case026.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.09970632940530777,0.08982584784601283
+207,BrEaST,breast,case026.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,0,benign,True,False,0.2571849226951599,0.312212389380531
+208,BrEaST,breast,case026.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,1,malignant,False,True,0.37691637873649597,0.39217429968875056
+209,BrEaST,breast,case026.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.07650429010391235,0.12784461516161763
+210,BrEaST,breast,case026.png,malignant,resnet50,TL,resnet50_TL,1,0,False,0,benign,True,False,0.19279524683952332,0.24492078285181734
+211,BrEaST,breast,case026.png,malignant,resnet50,TL,resnet50_TL,1,0,False,1,malignant,False,True,0.14040841162204742,0.2929133858267717
+212,BrEaST,breast,case026.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,0,benign,True,False,0.03913458064198494,0.040344827586206895
+213,BrEaST,breast,case026.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,1,malignant,False,True,0.03711499273777008,0.0372985876268152
+214,BrEaST,breast,case026.png,malignant,swin_tiny,TL,swin_tiny_TL,1,0,False,0,benign,True,False,0.18059344589710236,0.21022524132999643
+215,BrEaST,breast,case026.png,malignant,swin_tiny,TL,swin_tiny_TL,1,0,False,1,malignant,False,True,0.4460173547267914,0.4359861591695502
+216,BrEaST,breast,case050.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,2,False,2,normal,True,False,0.023852994665503502,0.03090876111010339
+217,BrEaST,breast,case050.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,2,False,1,malignant,False,True,0.0,0.0
+218,BrEaST,breast,case050.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.18055173754692078,0.1597300337457818
+219,BrEaST,breast,case050.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,0,benign,True,False,0.034634049981832504,0.04221583589337033
+220,BrEaST,breast,case050.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,1,malignant,False,True,0.001622428884729743,0.0
+221,BrEaST,breast,case050.png,malignant,resnet50,TL,resnet50_TL,1,0,False,0,benign,True,False,0.14840583503246307,0.25054738817641536
+222,BrEaST,breast,case050.png,malignant,resnet50,TL,resnet50_TL,1,0,False,1,malignant,False,True,0.13548317551612854,0.21041879468845762
+223,BrEaST,breast,case050.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,0,benign,True,False,0.021245615556836128,0.028278085359871048
+224,BrEaST,breast,case050.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,1,malignant,False,True,0.019653495401144028,0.0206172990118336
+225,BrEaST,breast,case050.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.11239121109247208,0.11929431531783814
+226,BUS-UCLM,bus_uclm,COPE_018.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,2,False,2,normal,True,False,0.14016637206077576,0.1341182010831175
+227,BUS-UCLM,bus_uclm,COPE_018.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,2,False,1,malignant,False,True,0.027051303535699844,0.012884129885958039
+228,BUS-UCLM,bus_uclm,COPE_018.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.4346519410610199,0.38258715271633337
+229,BUS-UCLM,bus_uclm,COPE_018.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.05853044241666794,0.0
+230,BUS-UCLM,bus_uclm,COPE_018.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.35432788729667664,0.2094151586677157
+231,BUS-UCLM,bus_uclm,COPE_018.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.15775351226329803,0.18648028735880903
+232,BUS-UCLM,bus_uclm,COPE_018.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.4900609254837036,0.6193763389669127
+233,BUS-UCLM,bus_uclm,CHSP_006.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,1,True,1,malignant,True,True,0.1467543989419937,0.194162324472313
+234,BUS-UCLM,bus_uclm,CHSP_006.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.4010290205478668,0.4936006168080185
+235,BUS-UCLM,bus_uclm,CHSP_006.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.12795349955558777,0.1641100287388497
+236,BUS-UCLM,bus_uclm,CHSP_006.png,malignant,resnet50,TL,resnet50_TL,1,0,False,0,benign,True,False,0.18860074877738953,0.1224207492795389
+237,BUS-UCLM,bus_uclm,CHSP_006.png,malignant,resnet50,TL,resnet50_TL,1,0,False,1,malignant,False,True,0.23552994430065155,0.3013157894736842
+238,BUS-UCLM,bus_uclm,CHSP_006.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.12061498314142227,0.13384160945233914
+239,BUS-UCLM,bus_uclm,CHSP_006.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.34058743715286255,0.44176415778030853
+240,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.02767251245677471,0.043536354526222024
+241,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,9.09054942894727e-05,0.0
+242,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.07503405958414078,0.0918703007518797
+243,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.009196589700877666,0.0
+244,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,resnet50,TL,resnet50_TL,1,0,False,0,benign,True,False,0.08753810822963715,0.13401826484018264
+245,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,resnet50,TL,resnet50_TL,1,0,False,1,malignant,False,True,0.05013057217001915,0.06819277108433736
+246,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,2,False,2,normal,True,False,0.06848517060279846,0.056372549019607844
+247,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,2,False,1,malignant,False,True,0.0,0.0
+248,BUS-UCLM,bus_uclm,CHCO_000.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.11180222034454346,0.10616345370621776
+249,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.12328628450632095,0.16760671708755287
+250,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,0.11651881784200668,0.1363422976326202
+251,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.5114424228668213,0.5557877813504823
+252,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,resnet50,scratch,resnet50_scratch,1,2,False,2,normal,True,False,0.27542975544929504,0.37296865287274666
+253,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,resnet50,scratch,resnet50_scratch,1,2,False,1,malignant,False,True,0.030427008867263794,0.0
+254,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.42704978585243225,0.3431603773584906
+255,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,2,False,2,normal,True,False,0.10240530222654343,0.10372585096596136
+256,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,2,False,1,malignant,False,True,0.0605391263961792,0.013316661456705221
+257,BUS-UCLM,bus_uclm,CHVI_004.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.46806925535202026,0.5380832282471627
+258,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.03011661395430565,0.0
+259,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,0.07184522598981857,0.0
+260,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.5087754726409912,0.7444534412955466
+261,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,0,benign,True,False,0.13000550866127014,0.17167606317440168
+262,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,resnet50,scratch,resnet50_scratch,1,0,False,1,malignant,False,True,0.0812373012304306,0.007512850929221036
+263,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,resnet50,TL,resnet50_TL,1,0,False,0,benign,True,False,0.27421411871910095,0.2164079822616408
+264,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,resnet50,TL,resnet50_TL,1,0,False,1,malignant,False,True,0.4833311438560486,0.394728870039382
+265,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,0,benign,True,False,0.31221023201942444,0.3114139020537125
+266,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,1,malignant,False,True,0.06681668758392334,0.02770569378720806
+267,BUS-UCLM,bus_uclm,PAGY_004.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.3633299171924591,0.4410653230160158
+268,BUS-UCLM,bus_uclm,FLKA_004.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.03115071915090084,0.0
+269,BUS-UCLM,bus_uclm,FLKA_004.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,0.03509194403886795,0.0
+270,BUS-UCLM,bus_uclm,FLKA_004.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.4809950888156891,0.4059774392371206
+271,BUS-UCLM,bus_uclm,FLKA_004.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.09069199115037918,0.05674740484429066
+272,BUS-UCLM,bus_uclm,FLKA_004.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.32982662320137024,0.2055446003943858
+273,BUS-UCLM,bus_uclm,FLKA_004.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,2,False,2,normal,True,False,0.08445927500724792,0.06560972794089352
+274,BUS-UCLM,bus_uclm,FLKA_004.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,2,False,1,malignant,False,True,0.2284879982471466,0.25254259675075946
+275,BUS-UCLM,bus_uclm,FLKA_004.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.4571618437767029,0.5418743768693918
+276,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.008410223759710789,0.0
+277,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,0.0093903299421072,0.0
+278,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,0,benign,True,False,0.28194165229797363,0.2876767676767677
+279,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,1,malignant,False,True,0.2978645861148834,0.30227127998301845
+280,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.046182259917259216,0.051704731128136235
+281,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,resnet50,TL,resnet50_TL,1,1,True,1,malignant,True,True,0.30153194069862366,0.356296500413337
+282,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,1,True,1,malignant,True,True,0.013530071824789047,0.0005965400676078744
+283,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,swin_tiny,TL,swin_tiny_TL,1,0,False,0,benign,True,False,0.11023355275392532,0.11353851060436931
+284,BUS-UCLM,bus_uclm,CHVI_019.png,malignant,swin_tiny,TL,swin_tiny_TL,1,0,False,1,malignant,False,True,0.041787777096033096,0.03785461380425755
+285,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.01545510534197092,0.0
+286,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,0.01204097643494606,0.0
+287,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,0,benign,True,False,0.08809112012386322,0.09602678178134084
+288,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,0,False,1,malignant,False,True,0.09610991179943085,0.10887978142076503
+289,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,resnet50,scratch,resnet50_scratch,1,2,False,2,normal,True,False,0.048979856073856354,0.052411405491176614
+290,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,resnet50,scratch,resnet50_scratch,1,2,False,1,malignant,False,True,0.011520939879119396,0.0
+291,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,resnet50,TL,resnet50_TL,1,0,False,0,benign,True,False,0.05495782569050789,0.07817621933048574
+292,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,resnet50,TL,resnet50_TL,1,0,False,1,malignant,False,True,0.05547422170639038,0.08167870036101083
+293,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,0,benign,True,False,0.01322612538933754,0.007750060547348026
+294,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,1,malignant,False,True,0.014274467714130878,0.013711347568378204
+295,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,swin_tiny,TL,swin_tiny_TL,1,2,False,2,normal,True,False,0.025127096101641655,0.02292824164645121
+296,BUS-UCLM,bus_uclm,SIBA_008.png,malignant,swin_tiny,TL,swin_tiny_TL,1,2,False,1,malignant,False,True,0.02186751924455166,0.019669771718706274
+297,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,0,benign,True,False,0.15712115168571472,0.20875848264414393
+298,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,efficientnet_b0,scratch,efficientnet_b0_scratch,1,0,False,1,malignant,False,True,0.08770617842674255,0.07030319684895117
+299,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,efficientnet_b0,TL,efficientnet_b0_TL,1,1,True,1,malignant,True,True,0.5757489204406738,0.6705846435658678
+300,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,resnet50,scratch,resnet50_scratch,1,1,True,1,malignant,True,True,0.11228086799383163,0.07916358936484491
+301,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,resnet50,TL,resnet50_TL,1,0,False,0,benign,True,False,0.21022628247737885,0.1949584592145015
+302,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,resnet50,TL,resnet50_TL,1,0,False,1,malignant,False,True,0.6332070827484131,0.46067615658362987
+303,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,0,benign,True,False,0.08981199562549591,0.06457207988502899
+304,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,swin_tiny,scratch,swin_tiny_scratch,1,0,False,1,malignant,False,True,0.37071630358695984,0.3852040816326531
+305,BUS-UCLM,bus_uclm,HUBL_008.png,malignant,swin_tiny,TL,swin_tiny_TL,1,1,True,1,malignant,True,True,0.5678383111953735,0.6692398053364659
+306,BrEaST,breast,case022.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.010802262462675571,0.0
+307,BrEaST,breast,case022.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.06359821557998657,0.05736137667304015
+308,BrEaST,breast,case022.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,1,malignant,True,False,0.0361785888671875,0.04493533465496082
+309,BrEaST,breast,case022.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,0,benign,False,True,0.028091682121157646,0.031387029771520886
+310,BrEaST,breast,case022.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.07183413952589035,0.08085180055401663
+311,BrEaST,breast,case022.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.002961650025099516,0.0
+312,BrEaST,breast,case022.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.09874261915683746,0.13273842721695484
+313,BrEaST,breast,case036.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,2,False,2,normal,True,False,0.0474088154733181,0.04709024995229918
+314,BrEaST,breast,case036.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,2,False,0,benign,False,True,0.060917507857084274,0.07492694702070893
+315,BrEaST,breast,case036.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.1845543533563614,0.20762341633901266
+316,BrEaST,breast,case036.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,1,malignant,True,False,0.0077715651132166386,0.0
+317,BrEaST,breast,case036.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,0,benign,False,True,0.09793586283922195,0.11866197183098591
+318,BrEaST,breast,case036.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.09777018427848816,0.06091283459162663
+319,BrEaST,breast,case036.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.056819234043359756,0.050190114068441066
+320,BrEaST,breast,case036.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.19436387717723846,0.20575665067597035
+321,BrEaST,breast,case038.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.001699691521935165,0.0
+322,BrEaST,breast,case038.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.09041707962751389,0.0899923896499239
+323,BrEaST,breast,case038.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,1,malignant,True,False,0.015518073923885822,0.015968939905469277
+324,BrEaST,breast,case038.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,0,benign,False,True,0.013633070513606071,0.021327441608801515
+325,BrEaST,breast,case038.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.04251726716756821,0.07265774378585087
+326,BrEaST,breast,case038.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.026843538507819176,0.03328641801548206
+327,BrEaST,breast,case038.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.06489218026399612,0.05951182687468545
+328,BrEaST,breast,case085.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.00788965169340372,0.0
+329,BrEaST,breast,case085.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.07334626466035843,0.07052108267354078
+330,BrEaST,breast,case085.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,1,malignant,True,False,0.010072675533592701,0.01219085208645001
+331,BrEaST,breast,case085.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,0,benign,False,True,0.012480001896619797,0.016396951793817963
+332,BrEaST,breast,case085.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.06513117253780365,0.08356971416102989
+333,BrEaST,breast,case085.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,0,True,0,benign,True,True,0.034952081739902496,0.03399911229471815
+334,BrEaST,breast,case085.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.04769589379429817,0.04455560725919032
+335,BrEaST,breast,case092.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,2,False,2,normal,True,False,0.010927784256637096,0.0009415773662735955
+336,BrEaST,breast,case092.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,2,False,0,benign,False,True,0.013809713535010815,0.0082414854532817
+337,BrEaST,breast,case092.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.13869735598564148,0.13321266968325793
+338,BrEaST,breast,case092.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,1,malignant,True,False,0.008642066270112991,0.0
+339,BrEaST,breast,case092.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,0,benign,False,True,0.032528165727853775,0.035232168501675445
+340,BrEaST,breast,case092.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.07086526602506638,0.10410849621061029
+341,BrEaST,breast,case092.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,1,False,1,malignant,True,False,0.0022728852927684784,0.0
+342,BrEaST,breast,case092.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,1,False,0,benign,False,True,0.029807286337018013,0.05112289022178825
+343,BrEaST,breast,case092.png,benign,swin_tiny,TL,swin_tiny_TL,0,1,False,1,malignant,True,False,0.12082518637180328,0.1359689636061334
+344,BrEaST,breast,case092.png,benign,swin_tiny,TL,swin_tiny_TL,0,1,False,0,benign,False,True,0.011914001777768135,0.005528846153846154
+345,BrEaST,breast,case140.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,0,True,0,benign,True,True,0.0007970597362145782,0.0
+346,BrEaST,breast,case140.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.06350015848875046,0.0792624521072797
+347,BrEaST,breast,case140.png,benign,resnet50,scratch,resnet50_scratch,0,0,True,0,benign,True,True,0.015133007429540157,0.015848109210732778
+348,BrEaST,breast,case140.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.013159668073058128,0.0020798668885191347
+349,BrEaST,breast,case140.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,2,False,2,normal,True,False,0.016429105773568153,0.008469102131629944
+350,BrEaST,breast,case140.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,2,False,0,benign,False,True,0.01640971563756466,0.021313838550247117
+351,BrEaST,breast,case140.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.05325114354491234,0.057988787666433075
+352,BrEaST,breast,case151.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,1,False,1,malignant,True,False,0.0105927474796772,0.012048671862573565
+353,BrEaST,breast,case151.png,benign,efficientnet_b0,scratch,efficientnet_b0_scratch,0,1,False,0,benign,False,True,0.0,0.0
+354,BrEaST,breast,case151.png,benign,efficientnet_b0,TL,efficientnet_b0_TL,0,0,True,0,benign,True,True,0.048294465988874435,0.047656495753381566
+355,BrEaST,breast,case151.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,1,malignant,True,False,0.010108665563166142,0.014387464387464388
+356,BrEaST,breast,case151.png,benign,resnet50,scratch,resnet50_scratch,0,1,False,0,benign,False,True,0.007400221657007933,0.013074997842409597
+357,BrEaST,breast,case151.png,benign,resnet50,TL,resnet50_TL,0,0,True,0,benign,True,True,0.02679286152124405,0.044126917419625974
+358,BrEaST,breast,case151.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,1,False,1,malignant,True,False,0.006252991035580635,0.005946278449866721
+359,BrEaST,breast,case151.png,benign,swin_tiny,scratch,swin_tiny_scratch,0,1,False,0,benign,False,True,0.024911293759942055,0.031227455426156858
+360,BrEaST,breast,case151.png,benign,swin_tiny,TL,swin_tiny_TL,0,0,True,0,benign,True,True,0.029523460194468498,0.03413699864803966

@@ -1,0 +1,1160 @@
+image_name,dataset,class,pixels_flagged,pct_flagged
+normal (109).png,BUSI,normal,643,0.24
+normal (113).png,BUSI,normal,7836,1.17
+normal (108).png,BUSI,normal,1377,0.3
+normal (114).png,BUSI,normal,3681,0.57
+normal (117).png,BUSI,normal,1608,0.36
+normal (112).png,BUSI,normal,0,0.0
+normal (111).png,BUSI,normal,70,0.01
+normal (115).png,BUSI,normal,425,0.15
+normal (116).png,BUSI,normal,2379,0.52
+normal (33).png,BUSI,normal,1332,0.29
+normal (10).png,BUSI,normal,0,0.0
+normal (16).png,BUSI,normal,1513,0.58
+normal (36).png,BUSI,normal,0,0.0
+normal (31).png,BUSI,normal,3201,1.24
+normal (14).png,BUSI,normal,1171,0.26
+normal (130).png,BUSI,normal,333,0.09
+normal (72).png,BUSI,normal,85,0.01
+normal (53).png,BUSI,normal,776,0.16
+normal (125).png,BUSI,normal,898,0.34
+normal (128).png,BUSI,normal,815,0.22
+normal (124).png,BUSI,normal,35,0.01
+normal (1).png,BUSI,normal,856,0.32
+normal (11).png,BUSI,normal,1770,0.41
+normal (131).png,BUSI,normal,2115,0.55
+normal (30).png,BUSI,normal,60,0.02
+normal (6).png,BUSI,normal,1204,0.27
+normal (4).png,BUSI,normal,2546,1.01
+normal (17).png,BUSI,normal,342,0.13
+normal (66).png,BUSI,normal,574,0.22
+normal (74).png,BUSI,normal,534,0.2
+normal (55).png,BUSI,normal,40,0.01
+normal (28).png,BUSI,normal,0,0.0
+normal (54).png,BUSI,normal,40,0.01
+normal (71).png,BUSI,normal,143,0.06
+normal (73).png,BUSI,normal,476,0.2
+normal (132).png,BUSI,normal,35,0.01
+normal (25).png,BUSI,normal,1185,0.27
+normal (44).png,BUSI,normal,0,0.0
+normal (59).png,BUSI,normal,60,0.01
+normal (64).png,BUSI,normal,622,0.24
+normal (7).png,BUSI,normal,3248,0.72
+normal (133).png,BUSI,normal,1177,0.45
+normal (65).png,BUSI,normal,45,0.01
+normal (29).png,BUSI,normal,259,0.07
+normal (15).png,BUSI,normal,624,0.24
+normal (37).png,BUSI,normal,125,0.02
+normal (18).png,BUSI,normal,328,0.12
+normal (32).png,BUSI,normal,393,0.15
+normal (12).png,BUSI,normal,1078,0.24
+normal (70).png,BUSI,normal,417,0.16
+normal (3).png,BUSI,normal,376,0.15
+normal (13).png,BUSI,normal,1363,0.3
+normal (84).png,BUSI,normal,420,0.17
+normal (79).png,BUSI,normal,50,0.02
+normal (81).png,BUSI,normal,1421,0.32
+normal (82).png,BUSI,normal,644,0.25
+normal (102).png,BUSI,normal,1410,0.32
+normal (76).png,BUSI,normal,462,0.18
+normal (9).png,BUSI,normal,40,0.02
+normal (77).png,BUSI,normal,1055,0.4
+normal (8).png,BUSI,normal,1506,0.33
+normal (86).png,BUSI,normal,360,0.14
+normal (78).png,BUSI,normal,3695,1.06
+normal (87).png,BUSI,normal,452,0.18
+normal (103).png,BUSI,normal,1001,0.23
+normal (80).png,BUSI,normal,1042,0.39
+normal (96).png,BUSI,normal,775,0.2
+normal (89).png,BUSI,normal,313,0.12
+normal (105).png,BUSI,normal,595,0.23
+normal (88).png,BUSI,normal,227,0.09
+normal (106).png,BUSI,normal,393,0.15
+normal (99).png,BUSI,normal,368,0.14
+normal (95).png,BUSI,normal,887,0.22
+malignant (140).png,BUSI,malignant,1522,0.6
+malignant (144).png,BUSI,malignant,182,0.07
+malignant (146).png,BUSI,malignant,246,0.1
+malignant (135).png,BUSI,malignant,721,0.14
+malignant (142).png,BUSI,malignant,796,0.31
+malignant (139).png,BUSI,malignant,2568,0.99
+malignant (137).png,BUSI,malignant,112,0.14
+malignant (141).png,BUSI,malignant,262,0.1
+malignant (138).png,BUSI,malignant,344,0.13
+malignant (134).png,BUSI,malignant,718,0.28
+malignant (143).png,BUSI,malignant,1759,0.67
+malignant (136).png,BUSI,malignant,0,0.0
+malignant (55).png,BUSI,malignant,1687,0.39
+malignant (62).png,BUSI,malignant,768,0.2
+malignant (79).png,BUSI,malignant,632,0.24
+malignant (49).png,BUSI,malignant,160,0.05
+malignant (22).png,BUSI,malignant,1107,0.41
+malignant (45).png,BUSI,malignant,2026,0.44
+malignant (54).png,BUSI,malignant,1522,0.34
+malignant (29).png,BUSI,malignant,691,0.26
+malignant (64).png,BUSI,malignant,2773,0.75
+malignant (31).png,BUSI,malignant,154,0.04
+malignant (58).png,BUSI,malignant,360,0.09
+malignant (19).png,BUSI,malignant,479,0.19
+malignant (50).png,BUSI,malignant,615,0.23
+malignant (33).png,BUSI,malignant,565,0.2
+malignant (53).png,BUSI,malignant,3460,1.29
+malignant (2).png,BUSI,malignant,3084,1.14
+malignant (57).png,BUSI,malignant,70,0.02
+malignant (24).png,BUSI,malignant,467,0.18
+malignant (43).png,BUSI,malignant,1505,0.49
+malignant (63).png,BUSI,malignant,1684,0.37
+malignant (37).png,BUSI,malignant,75,0.02
+malignant (25).png,BUSI,malignant,473,0.18
+malignant (26).png,BUSI,malignant,1947,0.74
+malignant (36).png,BUSI,malignant,0,0.0
+malignant (41).png,BUSI,malignant,754,0.27
+malignant (65).png,BUSI,malignant,4895,0.91
+malignant (46).png,BUSI,malignant,1360,0.3
+malignant (3).png,BUSI,malignant,300,0.15
+malignant (35).png,BUSI,malignant,99,0.04
+malignant (67).png,BUSI,malignant,4716,0.83
+malignant (81).png,BUSI,malignant,4681,1.36
+malignant (30).png,BUSI,malignant,712,0.27
+malignant (23).png,BUSI,malignant,716,0.27
+malignant (32).png,BUSI,malignant,150,0.05
+malignant (39).png,BUSI,malignant,511,0.19
+malignant (56).png,BUSI,malignant,117,0.03
+malignant (73).png,BUSI,malignant,1016,0.39
+malignant (60).png,BUSI,malignant,86,0.02
+malignant (1).png,BUSI,malignant,2719,1.01
+malignant (68).png,BUSI,malignant,702,0.26
+malignant (75).png,BUSI,malignant,80,0.04
+malignant (40).png,BUSI,malignant,227,0.09
+malignant (72).png,BUSI,malignant,1080,0.34
+malignant (76).png,BUSI,malignant,1646,0.43
+malignant (38).png,BUSI,malignant,1955,0.32
+malignant (59).png,BUSI,malignant,188,0.05
+malignant (18).png,BUSI,malignant,215,0.08
+malignant (82).png,BUSI,malignant,689,0.26
+malignant (74).png,BUSI,malignant,355,0.14
+malignant (71).png,BUSI,malignant,1111,0.36
+malignant (20).png,BUSI,malignant,393,0.15
+malignant (34).png,BUSI,malignant,840,0.23
+malignant (48).png,BUSI,malignant,101,0.04
+malignant (210).png,BUSI,malignant,1700,0.37
+malignant (47).png,BUSI,malignant,381,0.14
+malignant (21).png,BUSI,malignant,143,0.06
+malignant (44).png,BUSI,malignant,830,0.19
+malignant (181).png,BUSI,malignant,0,0.0
+malignant (170).png,BUSI,malignant,507,0.2
+malignant (205).png,BUSI,malignant,3424,1.43
+malignant (155).png,BUSI,malignant,0,0.0
+malignant (193).png,BUSI,malignant,799,0.18
+malignant (206).png,BUSI,malignant,1800,0.4
+malignant (84).png,BUSI,malignant,2733,0.69
+malignant (203).png,BUSI,malignant,0,0.0
+malignant (163).png,BUSI,malignant,3557,0.97
+malignant (195).png,BUSI,malignant,413,0.16
+malignant (89).png,BUSI,malignant,1519,0.33
+malignant (202).png,BUSI,malignant,0,0.0
+malignant (179).png,BUSI,malignant,325,0.16
+malignant (154).png,BUSI,malignant,362,0.14
+malignant (188).png,BUSI,malignant,674,0.2
+malignant (178).png,BUSI,malignant,436,0.17
+malignant (184).png,BUSI,malignant,416,0.15
+malignant (186).png,BUSI,malignant,56,0.02
+malignant (87).png,BUSI,malignant,544,0.19
+malignant (207).png,BUSI,malignant,2647,1.04
+malignant (153).png,BUSI,malignant,1155,0.29
+malignant (88).png,BUSI,malignant,1348,0.29
+malignant (165).png,BUSI,malignant,64,0.04
+malignant (194).png,BUSI,malignant,1792,0.35
+malignant (175).png,BUSI,malignant,309,0.12
+malignant (187).png,BUSI,malignant,1707,0.38
+malignant (171).png,BUSI,malignant,1498,0.41
+malignant (168).png,BUSI,malignant,505,0.19
+malignant (199).png,BUSI,malignant,262,0.11
+malignant (150).png,BUSI,malignant,210,0.08
+malignant (183).png,BUSI,malignant,239,0.09
+malignant (162).png,BUSI,malignant,1096,0.3
+malignant (201).png,BUSI,malignant,1763,0.45
+malignant (182).png,BUSI,malignant,1963,0.49
+malignant (90).png,BUSI,malignant,1851,0.4
+malignant (192).png,BUSI,malignant,175,0.06
+malignant (151).png,BUSI,malignant,291,0.12
+malignant (85).png,BUSI,malignant,3832,1.08
+malignant (177).png,BUSI,malignant,494,0.14
+malignant (185).png,BUSI,malignant,527,0.13
+malignant (166).png,BUSI,malignant,0,0.0
+malignant (95).png,BUSI,malignant,3670,0.97
+malignant (147).png,BUSI,malignant,242,0.09
+malignant (197).png,BUSI,malignant,326,0.12
+malignant (98).png,BUSI,malignant,3344,0.89
+malignant (164).png,BUSI,malignant,1152,0.44
+malignant (157).png,BUSI,malignant,1900,0.72
+malignant (94).png,BUSI,malignant,285,0.11
+malignant (189).png,BUSI,malignant,487,0.28
+malignant (159).png,BUSI,malignant,85,0.03
+malignant (191).png,BUSI,malignant,1215,0.38
+malignant (161).png,BUSI,malignant,1002,0.25
+malignant (160).png,BUSI,malignant,1514,0.41
+malignant (172).png,BUSI,malignant,944,0.33
+malignant (169).png,BUSI,malignant,1264,0.49
+malignant (158).png,BUSI,malignant,713,0.51
+malignant (204).png,BUSI,malignant,1252,0.24
+malignant (198).png,BUSI,malignant,1953,0.47
+malignant (156).png,BUSI,malignant,231,0.09
+malignant (83).png,BUSI,malignant,3694,0.92
+malignant (152).png,BUSI,malignant,1427,0.32
+malignant (91).png,BUSI,malignant,995,0.37
+malignant (176).png,BUSI,malignant,648,0.17
+malignant (208).png,BUSI,malignant,953,0.23
+malignant (16).png,BUSI,malignant,856,0.35
+malignant (6).png,BUSI,malignant,625,0.3
+malignant (209).png,BUSI,malignant,271,0.11
+malignant (128).png,BUSI,malignant,6880,2.35
+malignant (100).png,BUSI,malignant,1129,0.43
+malignant (127).png,BUSI,malignant,6432,2.35
+malignant (101).png,BUSI,malignant,288,0.06
+malignant (130).png,BUSI,malignant,3664,1.43
+malignant (117).png,BUSI,malignant,653,0.25
+malignant (125).png,BUSI,malignant,3011,1.16
+malignant (115).png,BUSI,malignant,0,0.0
+malignant (132).png,BUSI,malignant,1351,0.52
+malignant (123).png,BUSI,malignant,4303,2.78
+malignant (104).png,BUSI,malignant,68,0.02
+malignant (121).png,BUSI,malignant,2932,1.1
+malignant (112).png,BUSI,malignant,4552,1.76
+malignant (102).png,BUSI,malignant,531,0.11
+malignant (133).png,BUSI,malignant,1591,0.68
+malignant (105).png,BUSI,malignant,992,0.38
+malignant (118).png,BUSI,malignant,1351,0.51
+malignant (103).png,BUSI,malignant,365,0.13
+malignant (124).png,BUSI,malignant,4079,1.52
+malignant (122).png,BUSI,malignant,4750,1.84
+malignant (120).png,BUSI,malignant,1289,0.49
+malignant (106).png,BUSI,malignant,2696,0.88
+malignant (111).png,BUSI,malignant,5570,2.81
+malignant (126).png,BUSI,malignant,3469,1.3
+malignant (131).png,BUSI,malignant,5734,2.06
+benign (187).png,BUSI,benign,895,0.21
+benign (127).png,BUSI,benign,978,0.37
+benign (174).png,BUSI,benign,40,0.01
+benign (103).png,BUSI,benign,1518,0.34
+benign (112).png,BUSI,benign,2016,0.51
+benign (121).png,BUSI,benign,2603,0.66
+benign (1).png,BUSI,benign,3052,1.15
+benign (110).png,BUSI,benign,972,0.37
+benign (176).png,BUSI,benign,44,0.01
+benign (100).png,BUSI,benign,390,0.26
+benign (183).png,BUSI,benign,0,0.0
+benign (123).png,BUSI,benign,3281,0.83
+benign (124).png,BUSI,benign,52,0.01
+benign (190).png,BUSI,benign,765,0.22
+benign (11).png,BUSI,benign,2637,0.65
+benign (179).png,BUSI,benign,371,0.19
+benign (185).png,BUSI,benign,116,0.03
+benign (116).png,BUSI,benign,1469,0.33
+benign (10).png,BUSI,benign,880,0.22
+benign (111).png,BUSI,benign,374,0.25
+benign (107).png,BUSI,benign,746,0.16
+benign (117).png,BUSI,benign,339,0.06
+benign (188).png,BUSI,benign,0,0.0
+benign (102).png,BUSI,benign,8809,2.28
+benign (101).png,BUSI,benign,735,0.28
+benign (126).png,BUSI,benign,985,0.22
+benign (182).png,BUSI,benign,223,0.09
+benign (173).png,BUSI,benign,0,0.0
+benign (115).png,BUSI,benign,2236,0.86
+benign (180).png,BUSI,benign,236,0.05
+benign (132).png,BUSI,benign,810,0.3
+benign (104).png,BUSI,benign,1116,0.25
+benign (175).png,BUSI,benign,553,0.13
+benign (128).png,BUSI,benign,855,0.33
+benign (172).png,BUSI,benign,1250,0.34
+benign (178).png,BUSI,benign,1234,0.28
+benign (113).png,BUSI,benign,0,0.0
+benign (186).png,BUSI,benign,1920,0.45
+benign (12).png,BUSI,benign,272,0.07
+benign (129).png,BUSI,benign,1462,0.32
+benign (193).png,BUSI,benign,1044,0.24
+benign (118).png,BUSI,benign,2534,0.63
+benign (109).png,BUSI,benign,556,0.21
+benign (191).png,BUSI,benign,206,0.08
+benign (189).png,BUSI,benign,266,0.11
+benign (120).png,BUSI,benign,95,0.02
+benign (181).png,BUSI,benign,550,0.16
+benign (171).png,BUSI,benign,605,0.23
+benign (184).png,BUSI,benign,373,0.22
+benign (192).png,BUSI,benign,229,0.09
+benign (13).png,BUSI,benign,6896,1.78
+benign (130).png,BUSI,benign,1080,0.41
+benign (232).png,BUSI,benign,4694,1.78
+benign (29).png,BUSI,benign,773,0.3
+benign (307).png,BUSI,benign,4464,0.98
+benign (224).png,BUSI,benign,768,0.29
+benign (24).png,BUSI,benign,1323,0.51
+benign (215).png,BUSI,benign,2736,1.15
+benign (206).png,BUSI,benign,3804,1.38
+benign (221).png,BUSI,benign,2371,0.99
+benign (245).png,BUSI,benign,3101,1.19
+benign (229).png,BUSI,benign,7539,2.84
+benign (208).png,BUSI,benign,854,0.32
+benign (309).png,BUSI,benign,2698,0.72
+benign (28).png,BUSI,benign,0,0.0
+benign (238).png,BUSI,benign,6548,2.51
+benign (2).png,BUSI,benign,2957,1.12
+benign (284).png,BUSI,benign,3277,1.06
+benign (18).png,BUSI,benign,354,0.13
+benign (27).png,BUSI,benign,1010,0.23
+benign (216).png,BUSI,benign,4223,1.69
+benign (231).png,BUSI,benign,7577,2.86
+benign (244).png,BUSI,benign,4278,1.61
+benign (283).png,BUSI,benign,40,0.01
+benign (23).png,BUSI,benign,1388,0.31
+benign (17).png,BUSI,benign,735,0.28
+benign (227).png,BUSI,benign,4235,1.6
+benign (237).png,BUSI,benign,5399,2.05
+benign (31).png,BUSI,benign,420,0.16
+benign (239).png,BUSI,benign,3615,1.36
+benign (278).png,BUSI,benign,4265,1.64
+benign (212).png,BUSI,benign,1314,0.5
+benign (209).png,BUSI,benign,5249,1.97
+benign (213).png,BUSI,benign,3799,1.36
+benign (220).png,BUSI,benign,3557,1.47
+benign (20).png,BUSI,benign,493,0.33
+benign (242).png,BUSI,benign,819,0.31
+benign (26).png,BUSI,benign,559,0.21
+benign (211).png,BUSI,benign,957,0.37
+benign (214).png,BUSI,benign,4115,1.73
+benign (22).png,BUSI,benign,3182,1.22
+benign (308).png,BUSI,benign,293,0.11
+benign (222).png,BUSI,benign,2665,1.12
+benign (14).png,BUSI,benign,5305,1.43
+benign (286).png,BUSI,benign,4167,1.37
+benign (25).png,BUSI,benign,1074,0.24
+benign (241).png,BUSI,benign,6531,2.47
+benign (219).png,BUSI,benign,607,0.25
+benign (230).png,BUSI,benign,4934,1.85
+benign (355).png,BUSI,benign,105,0.03
+benign (341).png,BUSI,benign,185,0.05
+benign (380).png,BUSI,benign,2465,0.57
+benign (349).png,BUSI,benign,978,0.37
+benign (356).png,BUSI,benign,1087,0.42
+benign (361).png,BUSI,benign,928,0.35
+benign (340).png,BUSI,benign,3791,1.16
+benign (392).png,BUSI,benign,5222,1.5
+benign (339).png,BUSI,benign,315,0.12
+benign (390).png,BUSI,benign,2816,0.62
+benign (373).png,BUSI,benign,4776,1.88
+benign (345).png,BUSI,benign,2311,0.88
+benign (351).png,BUSI,benign,177,0.07
+benign (359).png,BUSI,benign,3149,1.2
+benign (370).png,BUSI,benign,136,0.05
+benign (394).png,BUSI,benign,246,0.09
+benign (317).png,BUSI,benign,85,0.03
+benign (338).png,BUSI,benign,180,0.08
+benign (36).png,BUSI,benign,1471,0.59
+benign (354).png,BUSI,benign,126,0.03
+benign (342).png,BUSI,benign,462,0.18
+benign (375).png,BUSI,benign,1010,0.23
+benign (379).png,BUSI,benign,1967,0.33
+benign (372).png,BUSI,benign,652,0.26
+benign (393).png,BUSI,benign,2042,0.51
+benign (365).png,BUSI,benign,35,0.01
+benign (391).png,BUSI,benign,1193,0.3
+benign (374).png,BUSI,benign,1725,0.68
+benign (315).png,BUSI,benign,287,0.11
+benign (343).png,BUSI,benign,926,0.35
+benign (35).png,BUSI,benign,2244,0.85
+benign (39).png,BUSI,benign,2846,1.14
+benign (326).png,BUSI,benign,2542,0.54
+benign (344).png,BUSI,benign,879,0.35
+benign (371).png,BUSI,benign,2181,0.49
+benign (377).png,BUSI,benign,1876,0.43
+benign (316).png,BUSI,benign,5323,2.06
+benign (312).png,BUSI,benign,430,0.16
+benign (336).png,BUSI,benign,671,0.15
+benign (367).png,BUSI,benign,1741,0.67
+benign (335).png,BUSI,benign,120,0.03
+benign (378).png,BUSI,benign,40,0.02
+benign (384).png,BUSI,benign,359,0.11
+benign (352).png,BUSI,benign,0,0.0
+benign (381).png,BUSI,benign,836,0.19
+benign (337).png,BUSI,benign,141,0.05
+benign (362).png,BUSI,benign,2102,0.81
+benign (346).png,BUSI,benign,628,0.28
+benign (313).png,BUSI,benign,993,0.38
+benign (347).png,BUSI,benign,92,0.02
+benign (369).png,BUSI,benign,1738,0.39
+benign (358).png,BUSI,benign,870,0.34
+benign (386).png,BUSI,benign,358,0.08
+benign (311).png,BUSI,benign,42,0.02
+benign (324).png,BUSI,benign,997,0.27
+benign (322).png,BUSI,benign,1923,0.71
+benign (34).png,BUSI,benign,1987,0.76
+benign (363).png,BUSI,benign,90,0.04
+benign (334).png,BUSI,benign,2805,1.12
+benign (382).png,BUSI,benign,695,0.2
+benign (314).png,BUSI,benign,133,0.05
+benign (348).png,BUSI,benign,1946,0.34
+benign (385).png,BUSI,benign,0,0.0
+benign (360).png,BUSI,benign,208,0.05
+benign (32).png,BUSI,benign,66,0.02
+benign (364).png,BUSI,benign,385,0.15
+benign (376).png,BUSI,benign,231,0.09
+benign (332).png,BUSI,benign,2744,0.74
+benign (353).png,BUSI,benign,953,0.24
+benign (320).png,BUSI,benign,3758,1.42
+benign (388).png,BUSI,benign,1164,0.27
+benign (368).png,BUSI,benign,170,0.04
+benign (350).png,BUSI,benign,1944,0.43
+benign (387).png,BUSI,benign,44,0.02
+benign (383).png,BUSI,benign,150,0.06
+benign (366).png,BUSI,benign,4825,1.85
+benign (357).png,BUSI,benign,109,0.04
+benign (389).png,BUSI,benign,4798,0.91
+benign (435).png,BUSI,benign,491,0.19
+benign (47).png,BUSI,benign,1645,0.37
+benign (70).png,BUSI,benign,135,0.04
+benign (408).png,BUSI,benign,2731,1.06
+benign (400).png,BUSI,benign,1527,0.34
+benign (56).png,BUSI,benign,0,0.0
+benign (417).png,BUSI,benign,125,0.05
+benign (430).png,BUSI,benign,1728,0.39
+benign (403).png,BUSI,benign,182,0.07
+benign (55).png,BUSI,benign,160,0.03
+benign (49).png,BUSI,benign,1628,0.36
+benign (71).png,BUSI,benign,599,0.23
+benign (76).png,BUSI,benign,0,0.0
+benign (66).png,BUSI,benign,1340,0.5
+benign (409).png,BUSI,benign,1165,0.45
+benign (72).png,BUSI,benign,516,0.2
+benign (63).png,BUSI,benign,54,0.01
+benign (77).png,BUSI,benign,314,0.12
+benign (41).png,BUSI,benign,110,0.04
+benign (399).png,BUSI,benign,212,0.08
+benign (57).png,BUSI,benign,596,0.23
+benign (43).png,BUSI,benign,45,0.02
+benign (431).png,BUSI,benign,89,0.04
+benign (46).png,BUSI,benign,1716,0.65
+benign (401).png,BUSI,benign,2545,0.97
+benign (427).png,BUSI,benign,2667,0.9
+benign (413).png,BUSI,benign,253,0.12
+benign (4).png,BUSI,benign,3252,1.26
+benign (432).png,BUSI,benign,4923,2.66
+benign (68).png,BUSI,benign,546,0.14
+benign (415).png,BUSI,benign,1856,0.41
+benign (59).png,BUSI,benign,487,0.18
+benign (420).png,BUSI,benign,1026,0.23
+benign (436).png,BUSI,benign,3196,1.34
+benign (54).png,BUSI,benign,1161,0.4
+benign (428).png,BUSI,benign,3178,1.08
+benign (418).png,BUSI,benign,185,0.07
+benign (78).png,BUSI,benign,1308,0.29
+benign (48).png,BUSI,benign,1077,0.24
+benign (74).png,BUSI,benign,484,0.18
+benign (437).png,BUSI,benign,1045,0.23
+benign (45).png,BUSI,benign,1820,0.4
+benign (64).png,BUSI,benign,7367,2.56
+benign (69).png,BUSI,benign,510,0.09
+benign (75).png,BUSI,benign,217,0.05
+benign (395).png,BUSI,benign,1052,0.3
+benign (423).png,BUSI,benign,780,0.3
+benign (429).png,BUSI,benign,178,0.07
+benign (405).png,BUSI,benign,506,0.19
+benign (434).png,BUSI,benign,1280,0.42
+benign (410).png,BUSI,benign,2797,1.07
+benign (79).png,BUSI,benign,2703,0.69
+benign (73).png,BUSI,benign,511,0.19
+benign (414).png,BUSI,benign,0,0.0
+benign (402).png,BUSI,benign,534,0.2
+benign (407).png,BUSI,benign,1447,0.55
+benign (398).png,BUSI,benign,1398,0.53
+benign (53).png,BUSI,benign,200,0.07
+benign (433).png,BUSI,benign,1362,0.54
+benign (67).png,BUSI,benign,697,0.29
+benign (65).png,BUSI,benign,845,0.32
+benign (397).png,BUSI,benign,3638,1.4
+benign (416).png,BUSI,benign,2502,0.5
+benign (40).png,BUSI,benign,138,0.04
+benign (83).png,BUSI,benign,2195,0.87
+benign (8).png,BUSI,benign,1444,0.4
+benign (97).png,BUSI,benign,4483,1.61
+benign (88).png,BUSI,benign,2199,0.45
+benign (87).png,BUSI,benign,1085,0.25
+benign (98).png,BUSI,benign,2450,0.55
+benign (84).png,BUSI,benign,613,0.14
+benign (91).png,BUSI,benign,35,0.01
+benign (93).png,BUSI,benign,276,0.11
+benign (90).png,BUSI,benign,1322,0.3
+benign (82).png,BUSI,benign,2110,0.7
+benign (89).png,BUSI,benign,1426,0.28
+benign (80).png,BUSI,benign,544,0.21
+benign (92).png,BUSI,benign,112,0.02
+benign (95).png,BUSI,benign,520,0.2
+benign (86).png,BUSI,benign,1194,0.27
+benign (81).png,BUSI,benign,411,0.16
+benign (146).png,BUSI,benign,350,0.13
+benign (147).png,BUSI,benign,863,0.33
+benign (160).png,BUSI,benign,557,0.15
+benign (167).png,BUSI,benign,630,0.24
+benign (149).png,BUSI,benign,159,0.06
+benign (140).png,BUSI,benign,1398,0.52
+benign (133).png,BUSI,benign,964,0.76
+benign (155).png,BUSI,benign,1909,0.42
+benign (200).png,BUSI,benign,5576,2.13
+benign (134).png,BUSI,benign,3600,2.76
+benign (198).png,BUSI,benign,677,0.16
+benign (162).png,BUSI,benign,433,0.17
+benign (170).png,BUSI,benign,1347,0.51
+benign (142).png,BUSI,benign,1118,0.24
+benign (144).png,BUSI,benign,820,0.18
+benign (137).png,BUSI,benign,1541,0.34
+benign (202).png,BUSI,benign,1451,0.56
+benign (138).png,BUSI,benign,3531,0.77
+benign (203).png,BUSI,benign,4399,1.64
+benign (204).png,BUSI,benign,5626,2.11
+benign (196).png,BUSI,benign,2700,0.61
+benign (195).png,BUSI,benign,8175,1.84
+benign (168).png,BUSI,benign,934,0.36
+benign (159).png,BUSI,benign,800,0.2
+benign (161).png,BUSI,benign,1295,0.49
+benign (135).png,BUSI,benign,1480,0.33
+benign (136).png,BUSI,benign,1155,0.22
+benign (201).png,BUSI,benign,929,0.35
+benign (151).png,BUSI,benign,581,0.22
+benign (165).png,BUSI,benign,548,0.21
+benign (154).png,BUSI,benign,488,0.19
+benign (148).png,BUSI,benign,697,0.27
+benign (145).png,BUSI,benign,1016,0.23
+benign (143).png,BUSI,benign,839,0.32
+benign (150).png,BUSI,benign,1973,0.52
+benign (194).png,BUSI,benign,76,0.02
+benign (169).png,BUSI,benign,1477,0.56
+benign (156).png,BUSI,benign,1411,0.27
+ALWI_019.png,BUS-UCLM,Benign,16205,3.12
+ALWI_009.png,BUS-UCLM,Benign,6274,1.21
+ALWI_001.png,BUS-UCLM,Normal,6962,1.34
+ANAT_011.png,BUS-UCLM,Normal,6802,1.31
+ANAT_003.png,BUS-UCLM,Normal,7897,1.52
+ANAT_015.png,BUS-UCLM,Normal,8078,1.56
+ALWI_003.png,BUS-UCLM,Benign,6660,1.28
+ANAT_013.png,BUS-UCLM,Normal,6814,1.31
+ALWI_007.png,BUS-UCLM,Benign,7487,1.44
+ANAT_016.png,BUS-UCLM,Normal,7939,1.53
+ALWI_006.png,BUS-UCLM,Normal,7234,1.39
+ANAT_001.png,BUS-UCLM,Normal,7584,1.46
+ANAT_019.png,BUS-UCLM,Normal,7875,1.52
+ANAT_012.png,BUS-UCLM,Normal,6885,1.33
+ALWI_008.png,BUS-UCLM,Benign,7248,1.4
+ALWI_018.png,BUS-UCLM,Benign,10138,1.95
+ALWI_014.png,BUS-UCLM,Normal,7304,1.41
+ALWI_011.png,BUS-UCLM,Benign,7222,1.39
+ALWI_021.png,BUS-UCLM,Benign,10619,2.05
+ANAT_006.png,BUS-UCLM,Normal,6952,1.34
+ANAT_004.png,BUS-UCLM,Normal,7871,1.52
+ALWI_023.png,BUS-UCLM,Benign,16031,3.09
+ANAT_010.png,BUS-UCLM,Normal,6963,1.34
+ALWI_010.png,BUS-UCLM,Benign,7248,1.4
+ANAT_007.png,BUS-UCLM,Normal,6949,1.34
+ALWI_016.png,BUS-UCLM,Benign,7222,1.39
+ALWI_002.png,BUS-UCLM,Benign,7160,1.38
+ALWI_020.png,BUS-UCLM,Benign,10343,1.99
+ANAT_008.png,BUS-UCLM,Normal,6824,1.32
+ANAT_005.png,BUS-UCLM,Normal,7371,1.42
+ANAT_018.png,BUS-UCLM,Normal,7735,1.49
+ANFO_001.png,BUS-UCLM,Normal,6750,1.3
+ANAT_020.png,BUS-UCLM,Normal,8257,1.59
+ANFO_002.png,BUS-UCLM,Benign,7117,1.37
+ALWI_028.png,BUS-UCLM,Normal,6833,1.32
+ALWI_004.png,BUS-UCLM,Benign,7086,1.37
+ANAT_009.png,BUS-UCLM,Normal,7162,1.38
+ALWI_027.png,BUS-UCLM,Benign,6709,1.29
+ANAT_000.png,BUS-UCLM,Normal,7710,1.49
+ANAT_017.png,BUS-UCLM,Normal,7747,1.49
+ANFO_004.png,BUS-UCLM,Benign,6649,1.28
+ALWI_026.png,BUS-UCLM,Benign,6825,1.32
+ALWI_005.png,BUS-UCLM,Benign,7339,1.41
+ALWI_013.png,BUS-UCLM,Normal,7309,1.41
+ALWI_012.png,BUS-UCLM,Normal,7456,1.44
+ALWI_025.png,BUS-UCLM,Normal,6696,1.29
+ANAT_002.png,BUS-UCLM,Normal,7521,1.45
+ALWI_015.png,BUS-UCLM,Benign,7264,1.4
+ANFO_000.png,BUS-UCLM,Normal,6693,1.29
+ALWI_000.png,BUS-UCLM,Benign,6653,1.28
+ALWI_022.png,BUS-UCLM,Benign,10621,2.05
+ALWI_017.png,BUS-UCLM,Benign,7258,1.4
+ANAT_014.png,BUS-UCLM,Normal,7427,1.43
+ALWI_024.png,BUS-UCLM,Normal,6790,1.31
+CAWI_005.png,BUS-UCLM,Benign,7047,1.36
+ASSC_024.png,BUS-UCLM,Normal,6747,1.3
+ASSC_005.png,BUS-UCLM,Benign,6765,1.3
+ASSC_004.png,BUS-UCLM,Normal,6803,1.31
+ASSC_008.png,BUS-UCLM,Normal,6900,1.33
+CHCO_000.png,BUS-UCLM,Malignant,9219,1.78
+CAWI_009.png,BUS-UCLM,Benign,6874,1.33
+CHSP_005.png,BUS-UCLM,Normal,6901,1.33
+ANFO_013.png,BUS-UCLM,Normal,6649,1.28
+ASSC_028.png,BUS-UCLM,Benign,6622,1.28
+ASSC_000.png,BUS-UCLM,Benign,7011,1.35
+ASSC_013.png,BUS-UCLM,Normal,7515,1.45
+ANFO_015.png,BUS-UCLM,Normal,6648,1.28
+ASSC_002.png,BUS-UCLM,Benign,6531,1.26
+ASSC_011.png,BUS-UCLM,Normal,7208,1.39
+CHCO_001.png,BUS-UCLM,Normal,7224,1.39
+ASSC_003.png,BUS-UCLM,Benign,6648,1.28
+ANFO_011.png,BUS-UCLM,Normal,6663,1.28
+ANFO_012.png,BUS-UCLM,Normal,6729,1.3
+ANFO_005.png,BUS-UCLM,Benign,6294,1.21
+CHCO_002.png,BUS-UCLM,Normal,7227,1.39
+CAWI_020.png,BUS-UCLM,Normal,7329,1.41
+ASSC_020.png,BUS-UCLM,Normal,7272,1.4
+CAWI_010.png,BUS-UCLM,Benign,6855,1.32
+CAWI_002.png,BUS-UCLM,Normal,6910,1.33
+ANFO_009.png,BUS-UCLM,Benign,6264,1.21
+ASSC_016.png,BUS-UCLM,Benign,7829,1.51
+ASSC_026.png,BUS-UCLM,Normal,6740,1.3
+ASSC_021.png,BUS-UCLM,Normal,7282,1.4
+ANFO_014.png,BUS-UCLM,Normal,6887,1.33
+ANFO_010.png,BUS-UCLM,Normal,6705,1.29
+ASSC_006.png,BUS-UCLM,Benign,6819,1.31
+CAWI_006.png,BUS-UCLM,Normal,6879,1.33
+ASSC_014.png,BUS-UCLM,Benign,7527,1.45
+CAWI_008.png,BUS-UCLM,Normal,6796,1.31
+CAWI_016.png,BUS-UCLM,Benign,6775,1.31
+CAWI_007.png,BUS-UCLM,Normal,7321,1.41
+ASSC_022.png,BUS-UCLM,Normal,7556,1.46
+CHCO_003.png,BUS-UCLM,Normal,7759,1.5
+CAWI_000.png,BUS-UCLM,Normal,7325,1.41
+ASSC_015.png,BUS-UCLM,Benign,7399,1.43
+ANFO_008.png,BUS-UCLM,Normal,7314,1.41
+ASSC_009.png,BUS-UCLM,Normal,6649,1.28
+CAWI_004.png,BUS-UCLM,Benign,6825,1.32
+CAWI_021.png,BUS-UCLM,Normal,7369,1.42
+CAWI_015.png,BUS-UCLM,Normal,6764,1.3
+CHSP_002.png,BUS-UCLM,Normal,6751,1.3
+ASSC_025.png,BUS-UCLM,Normal,6849,1.32
+CHSP_000.png,BUS-UCLM,Normal,7170,1.38
+ANFO_006.png,BUS-UCLM,Benign,6644,1.28
+ASSC_017.png,BUS-UCLM,Normal,7242,1.4
+CAWI_022.png,BUS-UCLM,Normal,7406,1.43
+CAWI_014.png,BUS-UCLM,Normal,6877,1.33
+CAWI_012.png,BUS-UCLM,Benign,6764,1.3
+ASSC_027.png,BUS-UCLM,Benign,7004,1.35
+ANFO_016.png,BUS-UCLM,Normal,6697,1.29
+ANFO_007.png,BUS-UCLM,Benign,6750,1.3
+ASSC_019.png,BUS-UCLM,Normal,7208,1.39
+CAWI_001.png,BUS-UCLM,Normal,7345,1.42
+CHSP_001.png,BUS-UCLM,Normal,8380,1.62
+CAWI_013.png,BUS-UCLM,Benign,6803,1.31
+CAWI_018.png,BUS-UCLM,Normal,7364,1.42
+CAWI_003.png,BUS-UCLM,Benign,6772,1.31
+CAWI_023.png,BUS-UCLM,Benign,7472,1.44
+ASSC_012.png,BUS-UCLM,Normal,7456,1.44
+CHSP_003.png,BUS-UCLM,Normal,6663,1.28
+ASSC_018.png,BUS-UCLM,Normal,6789,1.31
+CAWI_011.png,BUS-UCLM,Benign,6948,1.34
+CAWI_017.png,BUS-UCLM,Normal,7366,1.42
+ASSC_023.png,BUS-UCLM,Normal,6649,1.28
+CAWI_019.png,BUS-UCLM,Normal,7333,1.41
+ASSC_010.png,BUS-UCLM,Normal,7244,1.4
+ASSC_007.png,BUS-UCLM,Normal,6673,1.29
+COPE_017.png,BUS-UCLM,Malignant,7174,1.38
+COPE_004.png,BUS-UCLM,Normal,7332,1.41
+CHVI_006.png,BUS-UCLM,Malignant,7433,1.43
+COPE_013.png,BUS-UCLM,Malignant,7279,1.4
+COST_005.png,BUS-UCLM,Normal,6779,1.31
+CHVI_019.png,BUS-UCLM,Malignant,7475,1.44
+CHSP_009.png,BUS-UCLM,Normal,7534,1.45
+COPE_002.png,BUS-UCLM,Normal,7492,1.44
+COST_001.png,BUS-UCLM,Normal,6752,1.3
+CHVI_001.png,BUS-UCLM,Malignant,10123,1.95
+CHVI_003.png,BUS-UCLM,Normal,9105,1.76
+CHSP_012.png,BUS-UCLM,Normal,7409,1.43
+CODE_006.png,BUS-UCLM,Malignant,8771,1.69
+CHVI_009.png,BUS-UCLM,Normal,7227,1.39
+CHVI_004.png,BUS-UCLM,Malignant,7728,1.49
+CODE_005.png,BUS-UCLM,Malignant,9622,1.85
+CHVI_018.png,BUS-UCLM,Malignant,7090,1.37
+COPE_009.png,BUS-UCLM,Normal,6780,1.31
+COPE_007.png,BUS-UCLM,Normal,7021,1.35
+CODE_003.png,BUS-UCLM,Normal,8253,1.59
+COPE_012.png,BUS-UCLM,Malignant,7324,1.41
+CHVI_010.png,BUS-UCLM,Normal,7353,1.42
+CODE_004.png,BUS-UCLM,Normal,9112,1.76
+COPE_000.png,BUS-UCLM,Normal,7208,1.39
+CHSP_010.png,BUS-UCLM,Malignant,7958,1.53
+COPE_011.png,BUS-UCLM,Normal,6874,1.33
+CODE_002.png,BUS-UCLM,Normal,9625,1.86
+CHSP_007.png,BUS-UCLM,Malignant,8113,1.56
+CHVI_007.png,BUS-UCLM,Malignant,8014,1.54
+COPE_010.png,BUS-UCLM,Normal,6983,1.35
+CHVI_015.png,BUS-UCLM,Malignant,7455,1.44
+CHVI_016.png,BUS-UCLM,Normal,7804,1.5
+CHVI_000.png,BUS-UCLM,Malignant,8037,1.55
+CHVI_008.png,BUS-UCLM,Normal,7224,1.39
+CHSP_004.png,BUS-UCLM,Normal,6965,1.34
+CHVI_017.png,BUS-UCLM,Malignant,7479,1.44
+CODE_001.png,BUS-UCLM,Malignant,8825,1.7
+COST_002.png,BUS-UCLM,Normal,6649,1.28
+CODE_000.png,BUS-UCLM,Malignant,1926,0.37
+CHSP_006.png,BUS-UCLM,Malignant,7339,1.41
+CHSP_013.png,BUS-UCLM,Normal,7267,1.4
+CHVI_002.png,BUS-UCLM,Malignant,10507,2.03
+CHVI_013.png,BUS-UCLM,Normal,7759,1.5
+CHVI_012.png,BUS-UCLM,Normal,7714,1.49
+COPE_005.png,BUS-UCLM,Normal,6430,1.24
+COST_007.png,BUS-UCLM,Normal,6659,1.28
+COPE_003.png,BUS-UCLM,Normal,8156,1.57
+COPE_006.png,BUS-UCLM,Normal,6773,1.31
+COST_006.png,BUS-UCLM,Normal,6722,1.3
+CHVI_021.png,BUS-UCLM,Benign,10038,1.94
+CHSP_011.png,BUS-UCLM,Normal,7343,1.42
+CHVI_020.png,BUS-UCLM,Benign,10479,2.02
+COST_000.png,BUS-UCLM,Normal,6387,1.23
+CHVI_011.png,BUS-UCLM,Normal,7611,1.47
+COST_008.png,BUS-UCLM,Normal,6825,1.32
+CHVI_005.png,BUS-UCLM,Malignant,9219,1.78
+COPE_001.png,BUS-UCLM,Normal,7345,1.42
+COST_004.png,BUS-UCLM,Normal,6814,1.31
+COPE_008.png,BUS-UCLM,Normal,7496,1.45
+CHVI_014.png,BUS-UCLM,Malignant,7358,1.42
+DAPA_023.png,BUS-UCLM,Benign,11604,2.24
+COVA_000.png,BUS-UCLM,Normal,7341,1.42
+COVA_013.png,BUS-UCLM,Normal,6661,1.28
+DAPA_030.png,BUS-UCLM,Normal,6470,1.25
+DAPA_003.png,BUS-UCLM,Normal,7270,1.4
+COVA_007.png,BUS-UCLM,Normal,6716,1.29
+COVA_002.png,BUS-UCLM,Normal,9683,1.87
+ELCO_003.png,BUS-UCLM,Normal,7551,1.46
+DAPA_021.png,BUS-UCLM,Benign,20430,3.94
+DAPA_008.png,BUS-UCLM,Normal,7452,1.44
+DAPA_007.png,BUS-UCLM,Benign,7684,1.48
+COVA_003.png,BUS-UCLM,Normal,6896,1.33
+DAPA_000.png,BUS-UCLM,Normal,7691,1.48
+DAPA_015.png,BUS-UCLM,Benign,10299,1.99
+COVA_005.png,BUS-UCLM,Malignant,6423,1.24
+CRCI_001.png,BUS-UCLM,Malignant,7431,1.43
+COST_009.png,BUS-UCLM,Normal,7145,1.38
+DAPA_020.png,BUS-UCLM,Benign,20727,4.0
+DAPA_018.png,BUS-UCLM,Normal,7320,1.41
+ELCO_004.png,BUS-UCLM,Malignant,7962,1.53
+COST_011.png,BUS-UCLM,Benign,6655,1.28
+COST_010.png,BUS-UCLM,Benign,6632,1.28
+DAPA_019.png,BUS-UCLM,Benign,11334,2.18
+COST_003.png,BUS-UCLM,Normal,6674,1.29
+DAPA_037.png,BUS-UCLM,Normal,7758,1.5
+COVA_001.png,BUS-UCLM,Normal,7333,1.41
+DAPA_016.png,BUS-UCLM,Benign,9060,1.75
+DAPA_013.png,BUS-UCLM,Benign,9585,1.85
+COVA_012.png,BUS-UCLM,Malignant,7306,1.41
+DAPA_006.png,BUS-UCLM,Benign,7216,1.39
+DAPA_032.png,BUS-UCLM,Benign,16309,3.14
+ELCO_000.png,BUS-UCLM,Normal,7375,1.42
+DAPA_004.png,BUS-UCLM,Normal,7406,1.43
+DAPA_017.png,BUS-UCLM,Benign,11683,2.25
+DAPA_025.png,BUS-UCLM,Benign,10713,2.07
+ELCO_002.png,BUS-UCLM,Normal,7717,1.49
+ELCO_001.png,BUS-UCLM,Normal,7505,1.45
+DAPA_002.png,BUS-UCLM,Benign,14345,2.77
+DAPA_022.png,BUS-UCLM,Benign,11988,2.31
+DAPA_010.png,BUS-UCLM,Normal,11127,2.15
+CRCI_002.png,BUS-UCLM,Malignant,7420,1.43
+DAPA_031.png,BUS-UCLM,Benign,7313,1.41
+DAPA_005.png,BUS-UCLM,Benign,7474,1.44
+COVA_008.png,BUS-UCLM,Normal,6924,1.33
+DAPA_028.png,BUS-UCLM,Normal,6310,1.22
+COVA_004.png,BUS-UCLM,Normal,6737,1.3
+DAPA_036.png,BUS-UCLM,Normal,7482,1.44
+COVA_010.png,BUS-UCLM,Normal,7234,1.39
+COVA_006.png,BUS-UCLM,Normal,10314,1.99
+DAPA_001.png,BUS-UCLM,Benign,15520,2.99
+ELCO_006.png,BUS-UCLM,Malignant,7602,1.47
+COVA_014.png,BUS-UCLM,Normal,7541,1.45
+DAPA_033.png,BUS-UCLM,Benign,7179,1.38
+CRCI_000.png,BUS-UCLM,Malignant,8378,1.62
+DAPA_038.png,BUS-UCLM,Benign,7915,1.53
+DAPA_011.png,BUS-UCLM,Normal,11469,2.21
+DAPA_024.png,BUS-UCLM,Benign,11764,2.27
+DAPA_012.png,BUS-UCLM,Benign,11551,2.23
+DAPA_027.png,BUS-UCLM,Normal,6296,1.21
+DAPA_026.png,BUS-UCLM,Normal,6484,1.25
+COVA_009.png,BUS-UCLM,Normal,6819,1.31
+DAPA_009.png,BUS-UCLM,Normal,10724,2.07
+DAPA_014.png,BUS-UCLM,Benign,9772,1.88
+COVA_015.png,BUS-UCLM,Normal,7451,1.44
+FLKA_013.png,BUS-UCLM,Normal,10187,1.96
+FLBA_015.png,BUS-UCLM,Normal,7248,1.4
+FLKA_012.png,BUS-UCLM,Normal,8056,1.55
+HUBL_009.png,BUS-UCLM,Normal,7214,1.39
+HUBL_002.png,BUS-UCLM,Normal,7290,1.41
+FLBA_019.png,BUS-UCLM,Malignant,6984,1.35
+FLBA_007.png,BUS-UCLM,Normal,6660,1.28
+FLBA_013.png,BUS-UCLM,Normal,7392,1.43
+HUBL_003.png,BUS-UCLM,Malignant,7314,1.41
+FUHI_002.png,BUS-UCLM,Normal,6566,1.27
+FUHI_005.png,BUS-UCLM,Normal,7593,1.46
+FUHI_000.png,BUS-UCLM,Malignant,8304,1.6
+FLBA_006.png,BUS-UCLM,Normal,6655,1.28
+FLBA_005.png,BUS-UCLM,Malignant,6660,1.28
+HUBL_000.png,BUS-UCLM,Normal,7429,1.43
+FLBA_004.png,BUS-UCLM,Malignant,6659,1.28
+FLKA_010.png,BUS-UCLM,Normal,7546,1.45
+FLKA_006.png,BUS-UCLM,Normal,7639,1.47
+FLBA_009.png,BUS-UCLM,Normal,6696,1.29
+ELCO_005.png,BUS-UCLM,Malignant,7458,1.44
+FLBA_014.png,BUS-UCLM,Normal,7314,1.41
+FLBA_017.png,BUS-UCLM,Benign,7321,1.41
+FLKA_014.png,BUS-UCLM,Normal,9384,1.81
+FLBA_003.png,BUS-UCLM,Normal,6659,1.28
+FLKA_011.png,BUS-UCLM,Normal,7296,1.41
+FLKA_001.png,BUS-UCLM,Normal,8809,1.7
+FLKA_007.png,BUS-UCLM,Normal,6833,1.32
+FLBA_001.png,BUS-UCLM,Normal,7156,1.38
+FLBA_010.png,BUS-UCLM,Normal,6240,1.2
+FLKA_000.png,BUS-UCLM,Normal,7881,1.52
+FLKA_003.png,BUS-UCLM,Malignant,6268,1.21
+FUHI_001.png,BUS-UCLM,Normal,6981,1.35
+HUBL_008.png,BUS-UCLM,Malignant,6807,1.31
+FLBA_000.png,BUS-UCLM,Normal,7021,1.35
+FUHI_008.png,BUS-UCLM,Normal,7620,1.47
+FLKA_002.png,BUS-UCLM,Malignant,7916,1.53
+FLBA_002.png,BUS-UCLM,Normal,7343,1.42
+FLKA_008.png,BUS-UCLM,Normal,6676,1.29
+FLBA_011.png,BUS-UCLM,Normal,6256,1.21
+FUHI_007.png,BUS-UCLM,Benign,7759,1.5
+FLBA_008.png,BUS-UCLM,Normal,6962,1.34
+HUBL_010.png,BUS-UCLM,Normal,6766,1.3
+FLKA_009.png,BUS-UCLM,Normal,8044,1.55
+HUBL_004.png,BUS-UCLM,Malignant,10159,1.96
+HUBL_001.png,BUS-UCLM,Normal,7427,1.43
+FUHI_003.png,BUS-UCLM,Malignant,8446,1.63
+FLBA_016.png,BUS-UCLM,Normal,7459,1.44
+FLKA_004.png,BUS-UCLM,Malignant,6263,1.21
+HUBL_011.png,BUS-UCLM,Normal,7552,1.46
+FLBA_012.png,BUS-UCLM,Normal,6273,1.21
+LOTI_006.png,BUS-UCLM,Malignant,8238,1.59
+NIRO_005.png,BUS-UCLM,Normal,6801,1.31
+MENE_000.png,BUS-UCLM,Malignant,14638,2.82
+KIFO_004.png,BUS-UCLM,Benign,7532,1.45
+MENE_007.png,BUS-UCLM,Normal,8620,1.66
+KIFO_000.png,BUS-UCLM,Normal,7756,1.5
+NIRO_019.png,BUS-UCLM,Normal,6729,1.3
+MENE_017.png,BUS-UCLM,Benign,9619,1.85
+HUBL_013.png,BUS-UCLM,Normal,7092,1.37
+NIRO_002.png,BUS-UCLM,Normal,6875,1.33
+HUBL_019.png,BUS-UCLM,Malignant,7533,1.45
+KIFO_011.png,BUS-UCLM,Normal,7395,1.43
+LOTI_002.png,BUS-UCLM,Malignant,19553,3.77
+MENE_006.png,BUS-UCLM,Normal,7348,1.42
+MENE_014.png,BUS-UCLM,Normal,7048,1.36
+HUBL_016.png,BUS-UCLM,Normal,7215,1.39
+LOTI_004.png,BUS-UCLM,Normal,7474,1.44
+KIFO_001.png,BUS-UCLM,Normal,7671,1.48
+KIFO_005.png,BUS-UCLM,Benign,9400,1.81
+LOTI_003.png,BUS-UCLM,Malignant,7379,1.42
+NIRO_003.png,BUS-UCLM,Normal,6843,1.32
+KIFO_007.png,BUS-UCLM,Benign,7774,1.5
+MENE_015.png,BUS-UCLM,Normal,7224,1.39
+NIRO_018.png,BUS-UCLM,Normal,6669,1.29
+MENE_012.png,BUS-UCLM,Normal,6976,1.34
+NIRO_013.png,BUS-UCLM,Normal,7327,1.41
+NIRO_010.png,BUS-UCLM,Normal,7312,1.41
+NIRO_006.png,BUS-UCLM,Normal,7302,1.41
+MENE_010.png,BUS-UCLM,Normal,7570,1.46
+NIRO_012.png,BUS-UCLM,Normal,7208,1.39
+NIRO_015.png,BUS-UCLM,Normal,7288,1.4
+NIRO_016.png,BUS-UCLM,Normal,6820,1.31
+NIRO_014.png,BUS-UCLM,Normal,7296,1.41
+NIRO_011.png,BUS-UCLM,Normal,7448,1.44
+NIRO_017.png,BUS-UCLM,Normal,7022,1.35
+NIRO_001.png,BUS-UCLM,Normal,6649,1.28
+NIRO_009.png,BUS-UCLM,Normal,7398,1.43
+NIRO_000.png,BUS-UCLM,Benign,6531,1.26
+MENE_001.png,BUS-UCLM,Malignant,14256,2.75
+KIFO_006.png,BUS-UCLM,Benign,8270,1.59
+HUBL_014.png,BUS-UCLM,Normal,6844,1.32
+NIRO_007.png,BUS-UCLM,Normal,7330,1.41
+MENE_009.png,BUS-UCLM,Normal,7423,1.43
+MENE_002.png,BUS-UCLM,Malignant,15562,3.0
+HUBL_020.png,BUS-UCLM,Malignant,13980,2.7
+HUBL_015.png,BUS-UCLM,Benign,7150,1.38
+KIFO_010.png,BUS-UCLM,Normal,7645,1.47
+NIRO_004.png,BUS-UCLM,Normal,6842,1.32
+KIFO_003.png,BUS-UCLM,Benign,8504,1.64
+HUBL_021.png,BUS-UCLM,Normal,7278,1.4
+MENE_008.png,BUS-UCLM,Normal,7309,1.41
+HUBL_017.png,BUS-UCLM,Normal,7284,1.4
+MENE_016.png,BUS-UCLM,Normal,9178,1.77
+HUBL_012.png,BUS-UCLM,Normal,6917,1.33
+NIRO_020.png,BUS-UCLM,Normal,6897,1.33
+MENE_018.png,BUS-UCLM,Malignant,10278,1.98
+LOTI_000.png,BUS-UCLM,Normal,7524,1.45
+HUBL_018.png,BUS-UCLM,Normal,7696,1.48
+LOTI_007.png,BUS-UCLM,Malignant,8031,1.55
+LOTI_008.png,BUS-UCLM,Malignant,8005,1.54
+MENE_011.png,BUS-UCLM,Normal,7208,1.39
+KIFO_002.png,BUS-UCLM,Normal,8052,1.55
+NIRO_008.png,BUS-UCLM,Normal,7467,1.44
+LOTI_009.png,BUS-UCLM,Normal,7314,1.41
+NIRO_021.png,BUS-UCLM,Normal,6657,1.28
+MENE_013.png,BUS-UCLM,Normal,7327,1.41
+LOTI_005.png,BUS-UCLM,Normal,7226,1.39
+PAGY_006.png,BUS-UCLM,Normal,7902,1.52
+OSCU_023.png,BUS-UCLM,Benign,6691,1.29
+ORPE_011.png,BUS-UCLM,Benign,6874,1.33
+OSCU_014.png,BUS-UCLM,Benign,6898,1.33
+ORPE_017.png,BUS-UCLM,Benign,6673,1.29
+ORPE_020.png,BUS-UCLM,Benign,16573,3.19
+OSCU_015.png,BUS-UCLM,Benign,6743,1.3
+ORPE_010.png,BUS-UCLM,Normal,6791,1.31
+PAGY_007.png,BUS-UCLM,Normal,8755,1.69
+ORPE_028.png,BUS-UCLM,Normal,7232,1.39
+ORPE_029.png,BUS-UCLM,Normal,7252,1.4
+OSCU_003.png,BUS-UCLM,Normal,6736,1.3
+OSCU_008.png,BUS-UCLM,Normal,6685,1.29
+OSCU_009.png,BUS-UCLM,Normal,6685,1.29
+OSCU_024.png,BUS-UCLM,Normal,6863,1.32
+OSCU_011.png,BUS-UCLM,Normal,6659,1.28
+OSCU_004.png,BUS-UCLM,Normal,6946,1.34
+ORPE_015.png,BUS-UCLM,Benign,8663,1.67
+ORPE_023.png,BUS-UCLM,Benign,7048,1.36
+PAGY_000.png,BUS-UCLM,Normal,8044,1.55
+PAGY_005.png,BUS-UCLM,Normal,7421,1.43
+PAGY_003.png,BUS-UCLM,Malignant,7415,1.43
+OSCU_010.png,BUS-UCLM,Normal,6671,1.29
+PAGY_001.png,BUS-UCLM,Malignant,7600,1.47
+ORPE_021.png,BUS-UCLM,Benign,6243,1.2
+PAGY_008.png,BUS-UCLM,Normal,8644,1.67
+ORPE_007.png,BUS-UCLM,Normal,6879,1.33
+OSCU_019.png,BUS-UCLM,Benign,6985,1.35
+ORPE_012.png,BUS-UCLM,Normal,6682,1.29
+ORPE_018.png,BUS-UCLM,Normal,6760,1.3
+PAGY_011.png,BUS-UCLM,Malignant,7840,1.51
+ORPE_006.png,BUS-UCLM,Normal,6778,1.31
+OSCU_000.png,BUS-UCLM,Normal,7036,1.36
+OSCU_017.png,BUS-UCLM,Benign,16816,3.24
+ORPE_026.png,BUS-UCLM,Normal,7500,1.45
+ORPE_001.png,BUS-UCLM,Benign,7777,1.5
+OSCU_005.png,BUS-UCLM,Normal,6858,1.32
+OSCU_020.png,BUS-UCLM,Benign,6769,1.3
+ORPE_022.png,BUS-UCLM,Benign,7345,1.42
+ORPE_008.png,BUS-UCLM,Normal,6822,1.32
+OSCU_002.png,BUS-UCLM,Normal,6840,1.32
+ORPE_009.png,BUS-UCLM,Normal,7254,1.4
+OSCU_022.png,BUS-UCLM,Benign,7338,1.41
+ORPE_000.png,BUS-UCLM,Normal,7222,1.39
+ORPE_002.png,BUS-UCLM,Normal,6680,1.29
+PLBA_000.png,BUS-UCLM,Normal,7522,1.45
+PAGY_009.png,BUS-UCLM,Normal,7966,1.54
+PAGY_010.png,BUS-UCLM,Normal,8151,1.57
+ORPE_025.png,BUS-UCLM,Normal,7337,1.41
+PAGY_002.png,BUS-UCLM,Normal,7498,1.45
+ORPE_004.png,BUS-UCLM,Normal,6933,1.34
+ORPE_014.png,BUS-UCLM,Benign,6729,1.3
+ORPE_005.png,BUS-UCLM,Normal,6810,1.31
+OSCU_021.png,BUS-UCLM,Benign,6774,1.31
+ORPE_013.png,BUS-UCLM,Normal,6911,1.33
+OSCU_007.png,BUS-UCLM,Normal,6961,1.34
+ORPE_003.png,BUS-UCLM,Normal,6719,1.3
+ORPE_024.png,BUS-UCLM,Normal,7617,1.47
+PLBA_001.png,BUS-UCLM,Benign,7070,1.36
+OSCU_016.png,BUS-UCLM,Benign,6883,1.33
+ORPE_016.png,BUS-UCLM,Normal,7273,1.4
+ORPE_027.png,BUS-UCLM,Normal,7458,1.44
+PLBA_002.png,BUS-UCLM,Benign,7582,1.46
+OSCU_006.png,BUS-UCLM,Normal,6724,1.3
+NIRO_022.png,BUS-UCLM,Normal,6749,1.3
+OSCU_018.png,BUS-UCLM,Normal,6672,1.29
+PAGY_004.png,BUS-UCLM,Malignant,6530,1.26
+ORPE_019.png,BUS-UCLM,Benign,6971,1.34
+OSCU_001.png,BUS-UCLM,Normal,6731,1.3
+POFR_008.png,BUS-UCLM,Normal,7214,1.39
+SECH_008.png,BUS-UCLM,Benign,8255,1.59
+PLBA_019.png,BUS-UCLM,Benign,8265,1.59
+SECH_012.png,BUS-UCLM,Benign,7282,1.4
+SECH_003.png,BUS-UCLM,Normal,6694,1.29
+PLBA_007.png,BUS-UCLM,Normal,8102,1.56
+POFR_017.png,BUS-UCLM,Benign,7270,1.4
+PLBA_003.png,BUS-UCLM,Benign,8053,1.55
+SECH_000.png,BUS-UCLM,Normal,7548,1.46
+PLBA_022.png,BUS-UCLM,Normal,7487,1.44
+PLBA_017.png,BUS-UCLM,Normal,6783,1.31
+SECH_005.png,BUS-UCLM,Normal,6737,1.3
+PLBA_023.png,BUS-UCLM,Normal,8079,1.56
+PLBA_021.png,BUS-UCLM,Normal,8374,1.61
+POFR_003.png,BUS-UCLM,Normal,7894,1.52
+POFR_015.png,BUS-UCLM,Normal,8708,1.68
+PLBA_009.png,BUS-UCLM,Benign,8092,1.56
+SECH_010.png,BUS-UCLM,Benign,8069,1.56
+SHST_001.png,BUS-UCLM,Normal,6898,1.33
+POFR_025.png,BUS-UCLM,Normal,7573,1.46
+POFR_011.png,BUS-UCLM,Benign,7337,1.41
+PLBA_013.png,BUS-UCLM,Benign,6797,1.31
+SECH_004.png,BUS-UCLM,Normal,6740,1.3
+POFR_009.png,BUS-UCLM,Normal,7557,1.46
+POFR_000.png,BUS-UCLM,Normal,7662,1.48
+POFR_023.png,BUS-UCLM,Normal,7977,1.54
+SHST_004.png,BUS-UCLM,Normal,6914,1.33
+PLBA_008.png,BUS-UCLM,Benign,7735,1.49
+POFR_014.png,BUS-UCLM,Normal,7384,1.42
+SECH_013.png,BUS-UCLM,Normal,7329,1.41
+PLBA_024.png,BUS-UCLM,Benign,8017,1.55
+PLBA_018.png,BUS-UCLM,Benign,8655,1.67
+SHST_000.png,BUS-UCLM,Normal,6730,1.3
+RARE_003.png,BUS-UCLM,Benign,16055,3.1
+POFR_016.png,BUS-UCLM,Normal,7199,1.39
+PLBA_016.png,BUS-UCLM,Normal,6684,1.29
+POFR_021.png,BUS-UCLM,Normal,7548,1.46
+PLBA_010.png,BUS-UCLM,Benign,7497,1.45
+POFR_006.png,BUS-UCLM,Normal,7163,1.38
+PLBA_011.png,BUS-UCLM,Normal,6912,1.33
+SECH_009.png,BUS-UCLM,Benign,7583,1.46
+SECH_006.png,BUS-UCLM,Normal,6743,1.3
+POFR_002.png,BUS-UCLM,Normal,7886,1.52
+POFR_018.png,BUS-UCLM,Normal,7005,1.35
+PLBA_015.png,BUS-UCLM,Normal,6679,1.29
+SECH_011.png,BUS-UCLM,Benign,7124,1.37
+POFR_005.png,BUS-UCLM,Normal,6760,1.3
+POFR_020.png,BUS-UCLM,Normal,7685,1.48
+PLBA_005.png,BUS-UCLM,Normal,7539,1.45
+PLBA_004.png,BUS-UCLM,Normal,7254,1.4
+POFR_024.png,BUS-UCLM,Normal,7834,1.51
+POFR_010.png,BUS-UCLM,Normal,6903,1.33
+PLBA_012.png,BUS-UCLM,Normal,6838,1.32
+SECH_007.png,BUS-UCLM,Normal,7408,1.43
+PLBA_014.png,BUS-UCLM,Benign,6649,1.28
+POFR_022.png,BUS-UCLM,Benign,7983,1.54
+RARE_002.png,BUS-UCLM,Benign,14918,2.88
+SECH_001.png,BUS-UCLM,Normal,6689,1.29
+PLBA_006.png,BUS-UCLM,Normal,7491,1.44
+SECH_002.png,BUS-UCLM,Normal,6802,1.31
+POFR_012.png,BUS-UCLM,Benign,14990,2.89
+POFR_007.png,BUS-UCLM,Normal,7406,1.43
+POFR_019.png,BUS-UCLM,Normal,7056,1.36
+POFR_001.png,BUS-UCLM,Normal,7396,1.43
+POFR_026.png,BUS-UCLM,Normal,7455,1.44
+RARE_000.png,BUS-UCLM,Benign,6686,1.29
+PLBA_020.png,BUS-UCLM,Normal,8337,1.61
+POFR_004.png,BUS-UCLM,Normal,6986,1.35
+SIBA_002.png,BUS-UCLM,Malignant,7193,1.39
+TOCI_014.png,BUS-UCLM,Normal,6680,1.29
+SIBA_003.png,BUS-UCLM,Malignant,7588,1.46
+TOCI_001.png,BUS-UCLM,Normal,7397,1.43
+STSP_003.png,BUS-UCLM,Benign,7075,1.36
+SHST_011.png,BUS-UCLM,Benign,6953,1.34
+STSP_012.png,BUS-UCLM,Normal,6709,1.29
+STSP_009.png,BUS-UCLM,Normal,9521,1.84
+TOCI_013.png,BUS-UCLM,Benign,7814,1.51
+SIBA_007.png,BUS-UCLM,Malignant,7757,1.5
+STSP_002.png,BUS-UCLM,Benign,16098,3.1
+STSP_008.png,BUS-UCLM,Normal,6713,1.29
+STSP_005.png,BUS-UCLM,Normal,6796,1.31
+STSP_011.png,BUS-UCLM,Normal,6898,1.33
+TOCI_003.png,BUS-UCLM,Benign,7436,1.43
+TOCI_002.png,BUS-UCLM,Normal,7618,1.47
+STSP_027.png,BUS-UCLM,Normal,7309,1.41
+STSP_025.png,BUS-UCLM,Normal,7679,1.48
+STSP_001.png,BUS-UCLM,Benign,7536,1.45
+SIBA_005.png,BUS-UCLM,Malignant,7723,1.49
+TOCI_009.png,BUS-UCLM,Normal,7583,1.46
+TOCI_005.png,BUS-UCLM,Benign,7414,1.43
+SHST_010.png,BUS-UCLM,Normal,6850,1.32
+STSP_014.png,BUS-UCLM,Normal,7400,1.43
+TOCI_007.png,BUS-UCLM,Normal,7309,1.41
+STSP_006.png,BUS-UCLM,Normal,6739,1.3
+SIBA_006.png,BUS-UCLM,Malignant,8024,1.55
+TOCI_008.png,BUS-UCLM,Benign,7865,1.52
+TOCI_018.png,BUS-UCLM,Normal,6937,1.34
+STSP_010.png,BUS-UCLM,Normal,6834,1.32
+SIBA_000.png,BUS-UCLM,Malignant,8167,1.57
+SHST_003.png,BUS-UCLM,Normal,7198,1.39
+TOCI_019.png,BUS-UCLM,Normal,7022,1.35
+TOCI_011.png,BUS-UCLM,Normal,7212,1.39
+STSP_023.png,BUS-UCLM,Normal,7523,1.45
+TOCI_004.png,BUS-UCLM,Normal,7501,1.45
+STSP_000.png,BUS-UCLM,Normal,7313,1.41
+TOCI_022.png,BUS-UCLM,Benign,6529,1.26
+TOCI_021.png,BUS-UCLM,Benign,6777,1.31
+SIBA_001.png,BUS-UCLM,Malignant,7527,1.45
+TOCI_012.png,BUS-UCLM,Benign,7741,1.49
+TOCI_020.png,BUS-UCLM,Benign,6830,1.32
+SHST_009.png,BUS-UCLM,Benign,7131,1.37
+TOCI_015.png,BUS-UCLM,Normal,7414,1.43
+SIBA_008.png,BUS-UCLM,Malignant,7885,1.52
+TOCI_017.png,BUS-UCLM,Normal,7160,1.38
+SHST_008.png,BUS-UCLM,Benign,7272,1.4
+STSP_019.png,BUS-UCLM,Benign,13087,2.52
+TOCI_016.png,BUS-UCLM,Normal,7211,1.39
+TOCI_000.png,BUS-UCLM,Normal,7347,1.42
+STSP_007.png,BUS-UCLM,Normal,7319,1.41
+STSP_013.png,BUS-UCLM,Normal,6717,1.29
+SHST_007.png,BUS-UCLM,Normal,7008,1.35
+TOCI_023.png,BUS-UCLM,Benign,6784,1.31
+SHST_002.png,BUS-UCLM,Normal,6728,1.3
+STSP_004.png,BUS-UCLM,Benign,7423,1.43
+TOCI_010.png,BUS-UCLM,Normal,7308,1.41
+TOCI_006.png,BUS-UCLM,Normal,7628,1.47
+STSP_024.png,BUS-UCLM,Normal,7518,1.45
+WAQU_002.png,BUS-UCLM,Normal,7490,1.44
+VITR_002.png,BUS-UCLM,Normal,8278,1.6
+WAQU_004.png,BUS-UCLM,Normal,7876,1.52
+UNCU_004.png,BUS-UCLM,Malignant,6900,1.33
+VITR_012.png,BUS-UCLM,Benign,7016,1.35
+VITR_019.png,BUS-UCLM,Normal,8834,1.7
+VITR_024.png,BUS-UCLM,Normal,9037,1.74
+VITR_016.png,BUS-UCLM,Normal,6720,1.3
+UNCU_001.png,BUS-UCLM,Normal,7217,1.39
+UNCU_002.png,BUS-UCLM,Malignant,6931,1.34
+TOCI_035.png,BUS-UCLM,Normal,8210,1.58
+UNCU_007.png,BUS-UCLM,Normal,8621,1.66
+WAQU_000.png,BUS-UCLM,Normal,7573,1.46
+UNCU_011.png,BUS-UCLM,Normal,7890,1.52
+TOCI_028.png,BUS-UCLM,Normal,7090,1.37
+VITR_011.png,BUS-UCLM,Benign,6635,1.28
+TOCI_030.png,BUS-UCLM,Normal,6736,1.3
+VITR_009.png,BUS-UCLM,Benign,7925,1.53
+UNCU_005.png,BUS-UCLM,Malignant,7899,1.52
+VITR_008.png,BUS-UCLM,Normal,8420,1.62
+TOCI_026.png,BUS-UCLM,Normal,7422,1.43
+TOCI_034.png,BUS-UCLM,Normal,7296,1.41
+TOCI_032.png,BUS-UCLM,Normal,7713,1.49
+VITR_013.png,BUS-UCLM,Normal,6961,1.34
+WAQU_005.png,BUS-UCLM,Normal,7499,1.45
+TOCI_027.png,BUS-UCLM,Normal,7010,1.35
+TOCI_029.png,BUS-UCLM,Normal,6704,1.29
+UNCU_003.png,BUS-UCLM,Malignant,7353,1.42
+VITR_014.png,BUS-UCLM,Normal,6848,1.32
+UNCU_010.png,BUS-UCLM,Normal,8247,1.59
+TOCI_031.png,BUS-UCLM,Benign,6993,1.35
+VITR_025.png,BUS-UCLM,Normal,8271,1.59
+VITR_010.png,BUS-UCLM,Benign,7462,1.44
+TOCI_033.png,BUS-UCLM,Normal,7688,1.48
+VITR_015.png,BUS-UCLM,Normal,6766,1.3
+VITR_026.png,BUS-UCLM,Normal,8162,1.57
+WAQU_003.png,BUS-UCLM,Normal,7517,1.45
+TOCI_025.png,BUS-UCLM,Normal,6523,1.26
+WAQU_001.png,BUS-UCLM,Normal,7721,1.49
+VITR_004.png,BUS-UCLM,Benign,8912,1.72
+TOCI_024.png,BUS-UCLM,Benign,6446,1.24
+VITR_006.png,BUS-UCLM,Normal,8349,1.61
+UNCU_012.png,BUS-UCLM,Normal,6853,1.32
+VITR_001.png,BUS-UCLM,Benign,7773,1.5
+UNCU_008.png,BUS-UCLM,Normal,7321,1.41
+WAQU_007.png,BUS-UCLM,Normal,8028,1.55
+VITR_023.png,BUS-UCLM,Normal,8109,1.56
+VITR_003.png,BUS-UCLM,Benign,8893,1.71
+WAQU_006.png,BUS-UCLM,Normal,7464,1.44
+VITR_020.png,BUS-UCLM,Normal,6691,1.29
+VITR_028.png,BUS-UCLM,Benign,8459,1.63
+UNCU_006.png,BUS-UCLM,Malignant,7292,1.41
+TOCI_036.png,BUS-UCLM,Normal,7460,1.44
+UNCU_009.png,BUS-UCLM,Normal,7701,1.48
+UNCU_000.png,BUS-UCLM,Normal,7856,1.51
+VITR_000.png,BUS-UCLM,Normal,8243,1.59
+VITR_018.png,BUS-UCLM,Normal,6702,1.29
+VITR_021.png,BUS-UCLM,Normal,6812,1.31
+VITR_022.png,BUS-UCLM,Normal,6796,1.31
+VITR_007.png,BUS-UCLM,Normal,7566,1.46
+VITR_005.png,BUS-UCLM,Benign,8110,1.56
+VITR_017.png,BUS-UCLM,Normal,6724,1.3
+VITR_027.png,BUS-UCLM,Normal,8493,1.64
+STSP_026.png,BUS-UCLM,Benign,7709,1.49
+COPE_018.png,BUS-UCLM,Malignant,7788,1.5
