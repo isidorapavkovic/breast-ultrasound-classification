@@ -1,0 +1,31 @@
+filename,dataset,original_label,action,reason,decided_by,note
+benign (42),BUSI,benign,exclude,inconclusive findings,radiologist,
+benign (131),BUSI,benign,exclude,inconclusive findings,radiologist,
+malignant (51),BUSI,malignant,exclude,inconclusive findings,radiologist,
+benign (85),BUSI,benign,exclude,inconclusive findings,radiologist,
+benign (164),BUSI,benign,exclude,inconclusive findings,radiologist,
+malignant (52),BUSI,malignant,exclude,inconclusive findings,radiologist,
+benign (333),BUSI,benign,exclude,inconclusive findings,radiologist,
+malignant (77),BUSI,malignant,exclude,inconclusive findings,radiologist,
+malignant (78),BUSI,malignant,exclude,inconclusive findings,radiologist,
+benign (399),BUSI,benign,keep,matches the criteria for benign lesion more ,radiologist,"Posterior enhancement, wider, sharp, smooth edges--consistent with benign lesion"
+malignant (93),BUSI,malignant,exclude,doesn't match the criteria for malignancy,radiologist,
+benign (406),BUSI,benign,exclude,leans more towards malignancy,radiologist,
+malignant (94),BUSI,malignant,keep,leans more towards malignancy,radiologist,
+benign (433),BUSI,benign,keep,leans more towards benign lesion,radiologist,
+malignant (145),BUSI,malignant,exclude,leans more towards benign lesion,radiologist,
+benign (269),BUSI,benign,exclude,no lesion present,radiologist,
+normal (1),BUSI,normal,keep,no lesion present; healthy tissue,radiologist,
+benign (437),BUSI,benign,keep,matches the criteria for benign lesion,radiologist,"Posterior enhancement, wide, anoechoic, smooth edges, circumscribed margins -- consistent with a benign lesion, most likely a cyst"
+normal (34),BUSI,normal,exclude,lesion present and visible,radiologist,
+benign (6),BUSI,benign,exclude,Doppler signal present,visual_inspection,
+benign (323),BUSI,benign,exclude,Doppler signal present,visual_inspection,
+benign (13),BUSI,benign,keep,No visible Doppler signal,visual_inspection,Kept because of the larger dimensions
+benign (330),BUSI,benign,exclude,A near-identical of the above one,visual_inspection,
+benign (102),BUSI,benign,keep,No visible Doppler signal,visual_inspection,
+benign (234),BUSI,benign,exclude,Doppler signal present,visual_inspection,Excluded even though the Doppler signal is outside the apparent lesion in the image
+benign (261),BUSI,benign,exclude,A near-identical of the above one,visual_inspection,
+benign (240),BUSI,benign,exclude,Doppler signal present,visual_inspection,
+benign (255),BUSI,benign,exclude,A near-identical of the above one,visual_inspection,
+benign (277),BUSI,benign,exclude,A near-identical of the above one,visual_inspection,
+malignant (196),BUSI,malignant,exclude,Doppler signal present,visual_inspection,
