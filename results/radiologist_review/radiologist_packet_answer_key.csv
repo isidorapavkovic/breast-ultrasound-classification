@@ -1,0 +1,21 @@
+case_id,dataset,eval_data,image_name,class_name,architecture,mode,heatmap_id,true_label,pred_label,correct,target_class_name,stratum_id,stratum_label
+case_01,BUS-UCLM,bus_uclm,ALWI_025.png,normal,efficientnet_b0,TL,139,2,2,True,normal,2,external_consensus_correct
+case_02,BrEaST,breast,case160.png,malignant,swin_tiny,scratch,176,1,1,True,malignant,3,external_malignant_misclassified
+case_03,BrEaST,breast,case011.png,malignant,resnet50,scratch,86,1,1,True,malignant,2,external_consensus_correct
+case_04,BUS-UCLM,bus_uclm,OSCU_008.png,normal,efficientnet_b0,scratch,132,2,2,True,normal,2,external_consensus_correct
+case_05,BrEaST,breast,case036.png,benign,resnet50,TL,318,0,0,True,benign,4,breast_other_lesion
+case_06,BUSI,busi_test,normal (29).png,normal,swin_tiny,scratch,46,2,2,True,normal,1,busi_consensus_correct
+case_07,BrEaST,breast,case140.png,benign,swin_tiny,scratch,349,0,2,False,normal,4,breast_other_lesion
+case_08,BUSI,busi_test,benign (198).png,benign,resnet50,scratch,2,0,0,True,benign,1,busi_consensus_correct
+case_09,BrEaST,breast,case173.png,malignant,efficientnet_b0,TL,187,1,0,False,benign,3,external_malignant_misclassified
+case_10,BrEaST,breast,case050.png,malignant,swin_tiny,TL,225,1,1,True,malignant,3,external_malignant_misclassified
+case_11,BrEaST,breast,case214.png,benign,efficientnet_b0,scratch,54,0,0,True,benign,2,external_consensus_correct
+case_12,BUSI,busi_test,benign (107).png,benign,resnet50,TL,9,0,0,True,benign,1,busi_consensus_correct
+case_13,BrEaST,breast,case038.png,benign,resnet50,scratch,323,0,1,False,malignant,4,breast_other_lesion
+case_14,BrEaST,breast,case219.png,malignant,efficientnet_b0,scratch,150,1,1,True,malignant,3,external_malignant_misclassified
+case_15,BUSI,busi_test,malignant (134).png,malignant,swin_tiny,TL,35,1,1,True,malignant,1,busi_consensus_correct
+case_16,BrEaST,breast,case196.png,benign,efficientnet_b0,TL,61,0,0,True,benign,2,external_consensus_correct
+case_17,BrEaST,breast,case022.png,benign,efficientnet_b0,scratch,306,0,0,True,benign,4,breast_other_lesion
+case_18,BrEaST,breast,case092.png,benign,swin_tiny,TL,343,0,1,False,malignant,4,breast_other_lesion
+case_19,BrEaST,breast,case007.png,malignant,resnet50,TL,161,1,1,True,malignant,3,external_malignant_misclassified
+case_20,BUSI,busi_test,normal (89).png,normal,efficientnet_b0,TL,49,2,2,True,normal,1,busi_consensus_correct
